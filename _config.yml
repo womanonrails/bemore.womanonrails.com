@@ -1,0 +1,22 @@
+# Site settings
+title: Be more
+logo: womanonrails.jpg
+email: your-email@domain.com
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://be-more.womanonrails.com" # the base hostname & protocol for your site
+twitter_username: womanonrails
+github_username:  womanonrails
+author: Agnieszka Matysek
+
+# Build settings
+markdown: redcarpet
+paginate: 12
+
+gems:
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - gh-pages.sh
+  - README.md

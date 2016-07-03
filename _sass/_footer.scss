@@ -1,0 +1,39 @@
+#footer {
+  border-bottom: 1px solid $boder-color;
+  border-top: 1px solid $boder-color;
+  margin: 60px auto;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  text-align: center;
+  width: 100%;
+
+  h4 {
+    font-family: $raleway-fonts;
+    letter-spacing: $letter-spacing;
+    text-transform: uppercase;
+  }
+
+  a {
+    color: $light-text-color;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .copyright {
+    color: $light-text-color;
+    font-family: $raleway-fonts;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: $letter-spacing;
+    text-transform: uppercase;
+  }
+
+  .round {
+    border-radius: 50%;
+    border: 1px solid $background-color;
+    margin-bottom: 30px;
+    width: 80px;
+  }
+}

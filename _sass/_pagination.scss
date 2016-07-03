@@ -1,0 +1,47 @@
+.page-pagination {
+  margin: 40px auto;
+  text-align: center;
+  width: 100%;
+
+  .btn-link {
+    color: $dark-text-color;
+    cursor: auto;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  .btn {
+    font-family: $raleway-fonts;
+    letter-spacing: $letter-spacing;
+    padding: 20px 30px;
+    text-transform: uppercase;
+
+    &.btn-default {
+      background-color: $background-grey-color;
+      border-width: 1px;
+      color: $dark-text-color;
+      font-weight: 700;
+
+      -moz-transition: color 0.2s ease,border-color 0.2s ease;
+      -ms-transition: color 0.2s ease,border-color 0.2s ease;
+      -webkit-transition: color 0.2s ease,border-color 0.2s ease;
+      transition: color 0.2s ease,border-color 0.2s ease;
+
+      &:hover {
+        border-color: $hover-color;
+        color: $hover-color;
+      }
+
+      &.active, &:active {
+        background-color:  $background-grey-color;
+        box-shadow: none;
+      }
+    }
+
+    &.disabled {
+      color: $light-text-color;
+    }
+  }
+}

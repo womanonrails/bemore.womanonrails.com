@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "variables",
+        "layout",
+        "header",
+        "thumbnail",
+        "pagination",
+        "footer",
+        "post"
+;

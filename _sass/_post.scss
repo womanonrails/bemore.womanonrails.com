@@ -1,0 +1,116 @@
+.post-container {
+  background-color: $background-color;
+  padding-bottom: 50px;
+
+  .post-header {
+    border-bottom: 1px solid $boder-color;
+    border-top: 1px solid $boder-color;
+    font-family: $raleway-fonts;
+    letter-spacing: $letter-spacing;
+    margin: 40px auto;
+    padding-bottom: 15px;
+    padding-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+  }
+
+  .post-image {
+    margin-bottom: 60px;
+
+    .image {
+      overflow: hidden;
+      width: 100%;
+    }
+
+    .image img {
+      -moz-transition: -moz-transform 0.2s ease-out;
+      -ms-transition: -ms-transform 0.2s ease-out;
+      -webkit-transition: -webkit-transform 0.2s ease-out;
+      transition: transform 0.2s ease-out;
+      width: 100%;
+    }
+
+    &:hover .image img {
+      -moz-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+      -webkit-transform: scale(1.05);
+      transform: scale(1.05);
+    }
+  }
+
+  .post {
+    font-size: 20px;
+    text-align: justify;
+
+    blockquote {
+      margin-bottom: 60px;
+
+      p {
+        color: $dark-text-color;
+        font-weight: 700;
+      }
+    }
+
+    .tags {
+      margin-top: 50px;
+
+      li {
+        border-left: 1px solid $boder-color;
+      }
+
+      li:first-child {
+        border-left: 1px solid $background-color;
+      }
+
+      a {
+        text-decoration: none;
+        border-bottom: 1px dotted $boder-color;
+        letter-spacing: $letter-spacing;
+        font-family: $raleway-fonts;
+        color: $text-color;
+        text-transform: uppercase;
+        font-size: 11px;
+        margin-right: 10px;
+        margin-left: 10px;
+
+        -moz-transition: color 0.2s ease;
+        -ms-transition: color 0.2s ease;
+        -webkit-transition: color 0.2s ease;
+        transition: color 0.2s ease;
+
+        &:hover {
+          color: $hover-color;
+        }
+      }
+    }
+
+    .tag-list .badge {
+      margin-left: 10px;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .post-header h1 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 767px) {
+  .post-image .image {
+    height: 500px;
+  }
+
+  .post {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .post {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+}
