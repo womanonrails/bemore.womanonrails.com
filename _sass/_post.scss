@@ -52,6 +52,20 @@
       }
     }
 
+    a {
+      color: $light-text-color;
+      -moz-transition: color 0.2s ease-out;
+      -ms-transition: color 0.2s ease-out;
+      -webkit-transition: color 0.2s ease-out;
+      transition: color 0.2s ease-out;
+
+      &:hover {
+        color: $dark-text-color;
+        text-decoration: none;
+      }
+      &:focus { color: $dark-text-color; }
+    }
+
     .tags {
       margin-top: 50px;
 
