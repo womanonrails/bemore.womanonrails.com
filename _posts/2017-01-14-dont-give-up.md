@@ -20,12 +20,12 @@ Czego się nauczyłam?
 
 2. **Zastanów się na czym Ci naprawdę zależy** - Niektórzy mówią, że nie warto walczyć o sprawy przegrane. Ja mówię, że warto walczyć tylko o rzeczy słuszne, na których nam naprawdę zależy. Nie warto inwestować czasu w rzeczy nieistotne, jakieś zachcianki. Ale warto inwestować czas i swoje zaangażowanie w najskrytsze marzenia.
 
-3. **Próbuj z rożnych stron** - Zanim mnie udało się rozwiązać mój problem próbowałam 5-6 rożnych podejść. Miałam szczęście! W jednym z wywiadów, które obejrzałam na kanale [MarieTV](https://www.youtube.com/watch?v=E-DF4LUm0Rc) usłyszałam za przeciętnie by dostać role do filmu trzeba przejść 64 przesłuchań. Tak nie pomyliliście się 64 przesłuchań! Co w takiej sytuacji można pomyśleć o osobach, które zrezygnowały po 10 przesłuchaniu?
+3. **Próbuj z różnych stron** - Zanim udało mi się rozwiązać mój problem próbowałam 5-6 rożnych podejść. Miałam szczęście! W jednym z wywiadów, które obejrzałam na kanale [MarieTV](https://www.youtube.com/watch?v=E-DF4LUm0Rc) usłyszałam, że przeciętnie by dostać role do filmu trzeba przejść 64 przesłuchania. Tak nie pomyliliście się 64 przesłuchania! Co w takiej sytuacji można pomyśleć o osobach, które zrezygnowały po 10 przesłuchaniu?
 
-4. **Po prostu rób to** - Jeżeli chcesz zostać mistrzem w skokach narciarskich, to z całą pewnością nie osiągniesz tego siadając po raz pierwszy na belce startowej. To wymaga wielu lat pracy. Podobnie jest z każda inna rzeczą w życiu. Z jazdą samochodem, gotowaniem, publicznym przemawianiem, nauką języków i wieloma innymi sprawami. Wszystko wymaga czasu, cierpliwości i ćwiczeń.
+4. **Po prostu rób to** - Jeżeli chcesz zostać mistrzem w skokach narciarskich, to z całą pewnością nie osiągniesz tego siadając po raz pierwszy na belce startowej. To wymaga wielu lat pracy. Podobnie jest z każdą inna rzeczą w życiu. Z jazdą samochodem, gotowaniem, publicznym przemawianiem, nauką języków i wieloma innymi sprawami. Wszystko wymaga czasu, cierpliwości i ćwiczeń.
 
 5. **To nie ważne, że nie jesteś pierwszy** - W życiu nie chodzi o to by zawsze być pierwszym. Na swojej drodze spotkasz wiele osób, które będą robić rzeczy podobne do Ciebie. Obserwuj, ucz się i staraj się zrobić wszystko jak najlepiej. I pamiętaj każdy z nas jest trochę inny, każdy z nas robi rzeczy w troszkę inny sposób. Jednym będzie odpowiadać to co Ty robisz, innym nie. Zaakceptuj to i rób swoje!
 
 <br>
 
-Myślę, że z tymi moimi przemyśleniami Was zostawię. Jeżeli brakuje Wam motywacji to zerknijcie [tutaj](https://www.youtube.com/watch?v=LXM_tGHcuMo) i [tutaj](https://www.youtube.com/watch?v=PyBuKSpwkAU). Polecam! I do zobaczenia następnym razem!
+Myślę, że z tymi moimi przemyśleniami Was zostawię. Jeżeli brakuje Wam motywacji to zerknijcie na [Krok pierwszy](https://www.youtube.com/watch?v=LXM_tGHcuMo) i [Porażki](https://www.youtube.com/watch?v=PyBuKSpwkAU). Polecam! I do zobaczenia następnym razem!
