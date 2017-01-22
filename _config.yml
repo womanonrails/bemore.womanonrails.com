@@ -1,13 +1,17 @@
 # Site settings
-title: Be more
+title: Be More Woman on Rails
 logo: womanonrails.jpg
-email: your-email@domain.com
+email: please-do-not-spam-me@womanonrails.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://be-more.womanonrails.com" # the base hostname & protocol for your site
+url: "http://bemore.womanonrails.com" # the base hostname & protocol for your site
 twitter_username: womanonrails
 github_username:  womanonrails
 author: Agnieszka Matysek
+
+meta:
+  title: Be More - jak być lepszym, szczęśliwym człowiekiem
+  description: Chcesz być szczęśliwy? Szczęśliwy na własnych warunkach? Tu znajdziesz moje przemyślenia na temat życia.
 
 # Build settings
 markdown: redcarpet
