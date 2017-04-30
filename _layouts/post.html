@@ -33,6 +33,12 @@ layout: default
         <li><a href="/tags.html#{{ tag }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
+
+    {% if site.disqus_shortname and page.comments == true %}
+      <footer>
+        <div id="disqus_thread"></div><!-- /#disqus_thread -->
+      </footer>
+    {% endif %}
   </article>
 </div>
 
@@ -65,3 +71,4 @@ layout: default
   </div>
 </div>
 
+{% if page.comments %}{% include disqus_comments.html %}{% endif %}
