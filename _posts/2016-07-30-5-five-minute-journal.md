@@ -6,6 +6,7 @@ quote_author: (nieznany)
 image: five-minute-journal.jpg
 image_alt: The Five Minute Journal
 tags: [szczęście]
+comments: true
 ---
 
 Drugi raz zagłębię się odrobinę w temacie szczęścia. Jest to dla mnie niesamowicie ciekawe, więc nie zdziwcie się, jeżeli będę do niego często wracać. Dróg do szczęścia jest tak wiele, jak wielu jest ludzi na świecie. Dodatkowo nie ma jednej słusznej drogi. Każdy z nas chce być szczęśliwy i każdy z nas robi to na swój sposób. To co ja dziennie robię w tym kierunku nie koniecznie będzie działać dla Was. Choć serdecznie polecam przynajmniej spróbować.

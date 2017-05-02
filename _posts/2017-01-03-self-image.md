@@ -6,6 +6,7 @@ quote_author: Lucy Maud Montgomery (z książki Dolina Tęczy)
 image: self-image-2017.jpg
 image_alt: Autoportret
 tags: [szczęście, autoportret]
+comments: true
 ---
 
 Pisałam już o tym jak przygotowuje się do nadchodzącego nowego roku. Co robię by wejść w ten Nowy Rok z planami, które mogę i chcę zrealizować. Teraz nadszedł czas by podsumować to kim jestem obecnie. Kim jestem na początku 2017. Życzę miłego oglądania i do następnego razu!

@@ -6,6 +6,7 @@ quote_author: Ole Nydahl
 image: important-now.jpg
 image_alt: Important now
 tags: [szczęście]
+comments: true
 ---
 
 Zastanawialiście się dlaczego często jesteśmy nieszczęśliwi? Powodów może być wiele. Dziś chciałabym poruszyć jeden z nich. O czym myślicie tu i teraz? Czekacie na coś? Na lepsze jutro? Na upragnione wakacje? Wtedy to będę szczęśliwa, jak tylko tam będę. Na pewno? A może czekając na lepsze jutro ucieka nam wspaniałe dzisiaj?

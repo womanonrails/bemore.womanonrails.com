@@ -6,6 +6,7 @@ quote_author: (nieznany)
 image: spontaneous.jpg
 image_alt: Spontaniczność
 tags: [spontaniczność]
+comments: true
 ---
 
 Przez ostatni tydzień przeprowadziłam na sobie pewien eksperyment. Jako że jestem osobą z natury bardzo poukładaną i zorganizowaną, ćwiczyłam na sobie coś, co nie jest moją mocną stroną. Mianowicie **spontaniczność**. Mój kalendarz nie zawierał nic, żadnych planów poza moimi cotygodniowymi zajęciami z tańca (oczywiście nie wliczam w plany mojej pracy zarobkowej z oczywistych względów). Zero umówionych spotkań, zero rzeczy do zrobienia na ten tydzień. Po prostu nic puste strony.

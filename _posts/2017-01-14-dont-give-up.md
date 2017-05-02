@@ -6,6 +6,7 @@ quote_author: Krzysztof Gonciarz (z filmu Porażki)
 image: dont-give-up.jpg
 image_alt: Nie poddawaj się
 tags: [plany, marzenia, wytrwałość]
+comments: true
 ---
 
 Za mną dość ciężkie dwa tygodnie w pracy. Przez ten czas wszystko, co starałam się zrobić nie miało żadnego pozytywnego efektu. Czułam jakbym stała w miejscu. Wszystkie moje trudy i starania nie zmieniały faktu ze prace po prostu się zatrzymały i tyle. Już praktycznie straciłam nadzieje, że uda się rozwiązać problem. W pewnym momencie zastanawiałam się tylko nad tym, jak problem obejść. Chodziło o jak najszybsze zakończenie prac nad daną funkcjonalnością dla klienta.

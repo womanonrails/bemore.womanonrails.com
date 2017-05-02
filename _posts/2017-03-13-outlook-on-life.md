@@ -6,6 +6,7 @@ quote_author: Dan Brown - Zaginiony symbol
 image: outlook-on-life.jpg
 image_alt: Nowa perspektywa
 tags: [marzenia, życie, cele]
+comments: true
 ---
 
 W zeszłym tygodniu zaczęłam pisać coś w rodzaju dziennika. Nie jest to do końca taki dziennik, gdzie spisuje dokładnie, co działo się w ciągu dnia. Nie jest to też dziennik pokładowy, o którym czasem możemy usłyszeć w filmach przykładowo związanych z morzem. Jest to raczej spis kilku pytań, na które chce odpowiedzieć sobie w czasie dnia. Są to pytania dotyczące tego, czego się nauczyłam w ciągu tego dnia i jakie mam odnośnie tego wnioski. Zależy mi na tym, by świadomie przeżyć ten dzień, by skupiać się bardziej na tu i teraz. By każdy dzień był dla mnie lekcją życia, by mnie rozwijał.

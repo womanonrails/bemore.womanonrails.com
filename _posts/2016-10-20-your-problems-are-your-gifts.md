@@ -6,6 +6,7 @@ quote_author: Tony Robbins
 image: problems.jpg
 image_alt: Problemy
 tags: [przepracowanie, problemy]
+comments: true
 ---
 
 Zaczęło się od tego, że bardzo bliska mi osoba straciła projekt, w którym pracowała od prawie roku. To właśnie tego dnia usłyszałam te słowa po raz pierwszy. "Twoje problemy to Twój dar. Twoje problemy to Twoja siła." Początkowo bardziej mnie denerwowały niż dawały jakąś pociechę. Nie będę jednak ukrywać, że szukałam w tej całej historii jakiegoś sensu. Czego mam się nauczyć? Co mam zrozumieć? Odpowiedzi nie było.

@@ -6,6 +6,7 @@ quote_author: aplicacja Calm
 image: meditation.jpg
 image_alt: Medytacja
 tags: [przepracowanie, medytacja, zdrowie]
+comments: true
 ---
 
 No i się pochorowałam. Jestem przykładem na to, że gdy za dużo się od siebie wymaga, organizm zaczyna się buntować. Ciągle powtarzam sobie, że powinnam zwolnić i zacząć robić to, co na prawdę lubię. To teraz przynajmniej zwolniłam, bo do czasu aż wyzdrowieje będę leżeć w łóżku, nawet jeżeli mi się to nie podoba. Wracając do sprawy dużej ilości rzeczy na głowie, problem polega na tym, że jest tak wiele rzeczy, które sprawiają mi radość. Pisanie, nagrywanie wideo, uczenie, programowanie, robienie zdjęć, tańczenie, czytanie i wiele innych. Jak widać zdrowie jest ważniejsze i trzeba nauczyć się dobrze ustawiać priorytety nawet dla przyjemności.
