@@ -1,2 +1,2 @@
-bemore.womanonrails.com
+[bemore.womanonrails.com](http://bemore.womanonrails.com/)
 =======================
