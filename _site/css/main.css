@@ -226,8 +226,6 @@ body {
         text-decoration: none; }
       .post-container .post a:focus {
         color: #3c3b3b; }
-    .post-container .post .icalic {
-      font-style: italic; }
     .post-container .post .tags {
       margin-top: 50px; }
       .post-container .post .tags li {
