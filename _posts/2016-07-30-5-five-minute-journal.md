@@ -11,6 +11,8 @@ comments: true
 
 Drugi raz zagłębię się odrobinę w temacie szczęścia. Jest to dla mnie niesamowicie ciekawe, więc nie zdziwcie się, jeżeli będę do niego często wracać. Dróg do szczęścia jest tak wiele, jak wielu jest ludzi na świecie. Dodatkowo nie ma jednej słusznej drogi. Każdy z nas chce być szczęśliwy i każdy z nas robi to na swój sposób. To co ja dziennie robię w tym kierunku nie koniecznie będzie działać dla Was. Choć serdecznie polecam przynajmniej spróbować.
 
+<!--break-->
+
 Od jakiegoś roku, może nawet troszkę dłużej stosuje pewną technikę, która ma na celu nakierować moje myśli na pozytywną stronę życia. Technika ta nazywa się [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal). Osobiście nie kupiłam tego dziennika, piszę własny na bazie tego, który jest dostępny na stronie.
 
 W dużym skrócie każdego dnia odpowiadam na 5 pytań. Odpowiedzi na pierwsze trzy pytania zapisuje rano, zaraz po obudzeniu się, a na dwa pozostałe odpowiadam tuż przed spaniem. Oto pytania:

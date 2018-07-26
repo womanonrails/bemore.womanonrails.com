@@ -11,6 +11,8 @@ comments: true
 
 Przez ostatni tydzień przeprowadziłam na sobie pewien eksperyment. Jako że jestem osobą z natury bardzo poukładaną i zorganizowaną, ćwiczyłam na sobie coś, co nie jest moją mocną stroną. Mianowicie **spontaniczność**. Mój kalendarz nie zawierał nic, żadnych planów poza moimi cotygodniowymi zajęciami z tańca (oczywiście nie wliczam w plany mojej pracy zarobkowej z oczywistych względów). Zero umówionych spotkań, zero rzeczy do zrobienia na ten tydzień. Po prostu nic puste strony.
 
+<!--break-->
+
 Zacznijmy jednak od początku. Co to jest **spontaniczność**? Według słownika [PWN](http://sjp.pwn.pl/slowniki/spontanicznie.html) **spontaniczny** to:
 
 1. będący odruchową, nieprzemyślaną wcześniej reakcją na coś

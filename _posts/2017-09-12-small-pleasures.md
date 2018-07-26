@@ -11,6 +11,8 @@ comments: true
 
 Dzisiaj postanowiłam zrobić trochę inny wpis. Zainspirowana książką [Slow life - Zwolnij i zacznij żyć](https://www.znak.com.pl/kartoteka,ksiazka,8333,Slow-Life-Zwolnij-i-zacznij-zyc), którą swoja drogą czytam kolejny raz i bardzo lubię do niej wracać. Przedstawiam 30 moich małych przyjemności. Może któreś z nich Was zainspirują do własnych poszukiwań lub do wypróbowania samemu.
 
+<!--break-->
+
 1. Zapach mielonej kawy, ale tylko zapach bo samej kawy nie pije.
 2. Ciepła kąpiel w wannie z olejkami zapachowymi, na przykład trawa cytrynowa. Ponieważ sama nie posiadam wanny doceniam te momenty, gdy mogę z wanny skorzystać.
 3. Spacer po lesie i ten cudowny zapach świeżego powietrza. Zwłaszcza wieczorem. Po prostu boski!

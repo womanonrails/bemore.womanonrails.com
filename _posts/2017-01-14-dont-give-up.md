@@ -13,6 +13,7 @@ Za mną dość ciężkie dwa tygodnie w pracy. Przez ten czas wszystko, co stara
 
 Niestety problem trzeba było rozwiązać. Stawić mu czoła. Koniec i kropka! Na szczęście po wielu godzinach pracy wspólnie z zespołem udało nam się opanować sytuacje. Ulga niesamowita. Przy okazji niech mi ktoś powie za piątek 13-go to pechowy dzień!
 
+<!--break-->
 <br>
 
 Czego się nauczyłam?

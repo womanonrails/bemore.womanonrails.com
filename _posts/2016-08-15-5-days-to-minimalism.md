@@ -11,6 +11,8 @@ comments: true
 
 Od jakiegoś czasu interesuję się tematem minimalizmu. Czym jest? Jak ludzie go rozumieją? Co pozytywnego może przynieść w moje życie? Zaczęło się, gdy odkryłam pewien kanał na YouTube - [LightbyCoco](https://www.youtube.com/channel/UCp12IFoANz_tEY6YgZFqohA). Spodobały mi się porady dotyczące przede wszystkim lekkiego pakowania. Zaczęłam sama eksperymentować i okazało się, że to działa. W podróż zabieram teraz ze sobą małą ilość rzeczy, co sprawia, że jestem bardziej mobilna i jakoś tak lekko mi na duchu. [Tu](https://www.youtube.com/watch?v=rsyRc2fwcNo) możecie zobaczyć, co spakowałam na dwumiesięczną podróż do Australii. Później trafiłam na [Projekt 333](http://bemorewithless.com/project-333/). Zrobiłam rewolucję w swojej szafie i kolejny raz byłam zachwycona. Na sezon letni mam tylko 33 ubrania (nie wliczam w to butów, których i tak mam 3-4 pary oraz biżuterii - 2-3 dodatki). Może się to wydać dziwne, ale zawsze mam się w co ubrać. To niesamowite uczucie!
 
+<!--break-->
+
 Teraz gdy na kanale [Lavendaire](https://www.youtube.com/user/Lavendaire/featured) Aileen ogłosiła, że będzie przez 5 kolejnych dni porządkować małe elementy swojego życia, stwierdziłam, że sama też spróbuję. Wyzwanie dotyczyło:
 
 1. Torebki

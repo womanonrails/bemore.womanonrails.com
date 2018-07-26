@@ -11,6 +11,8 @@ comments: true
 
 W zeszłym tygodniu zaczęłam pisać coś w rodzaju dziennika. Nie jest to do końca taki dziennik, gdzie spisuje dokładnie, co działo się w ciągu dnia. Nie jest to też dziennik pokładowy, o którym czasem możemy usłyszeć w filmach przykładowo związanych z morzem. Jest to raczej spis kilku pytań, na które chce odpowiedzieć sobie w czasie dnia. Są to pytania dotyczące tego, czego się nauczyłam w ciągu tego dnia i jakie mam odnośnie tego wnioski. Zależy mi na tym, by świadomie przeżyć ten dzień, by skupiać się bardziej na tu i teraz. By każdy dzień był dla mnie lekcją życia, by mnie rozwijał.
 
+<!--break-->
+
 Bardzo mi się ta idea świadomego przeżywania dania spodobała. Zaczęłam się bardziej przyglądać temu co robię, co mnie otacza. Przechodziłam korytarzem i usłyszałam rozmowę młodych dziewczyn. Nie ma znaczenia tutaj temat ten rozmowy. Była to zwykła rozmowa dwóch dziewczyn o jakimś zdarzeniu z dnia poprzedniego. Przeszłam dalej i nawet nie wiem jak rozmowa się skończyła. Zainteresowałam mnie bardziej perspektywa z jakiej jedna dziewczyna opowiadała o całym zdarzeniu drugiej. Było widać, że patrzy na całą sytuację ze swojego punktu widzenie. Nie ma w tym nic złego. Ale czy to jest cała prawda? Może tylko część?
 
 Zrozumiałam, że często ludzie w tym również ja (żeby nie było) nie mamy spojrzenia na ogół sprawy. Na całość sytuacji. Widzimy tylko pewien wycinek, ten związany z nami. Dlatego też wielu rzeczy i spraw nie rozumiem do końca. Nawet nie jesteśmy tego świadomi, że nie rozumiemy. O ile łatwiejsze mogło by być nasze życie, gdybyśmy potrafili się zatrzymać i zmieniać swoją perspektywę? Ilu nieporozumień, kłótni lub może nawet wojen bylibyśmy wstanie uniknąć?

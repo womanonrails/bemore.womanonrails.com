@@ -13,6 +13,8 @@ Od kilku lat jednym z tematów, który bardzo mnie interesuje jest **szczęście
 
 Tak było też z [The 5 minute journal](http://bemore.womanonrails.com/2016/07/30/5-five-minute-journal.html), o którym pisałam jakiś czas temu. Cała idea bardzo mi się spodoba. Każdego dnia nastawiamy siebie, swój mózg pozytywnie. Stosowałam tą metodę przez około 3 lata. Przez długi czas działa u mnie świetnie, ale później zaczęłam czuć wewnętrzny opór. Im więcej tego oporu się pojawiało i im częściej łapałam się na tym, że spisuje moją podróż tylko dlatego, bo tak sobie założyłam, tym bardziej zaczynałam zastanawiać się, czy to jest dla mnie. Co tak naprawdę mi w tej metodzie nie odpowiada? Z czym mam problemy? Okazało się, że po jakimś czasie nie wszystkie pytania do mnie trafiały i wręcz starałam dopasować się na siłę do proponowanej metody.
 
+<!--break-->
+
 <div class='post-header'>
   <h3>Początek zmian</h3>
 </div>
