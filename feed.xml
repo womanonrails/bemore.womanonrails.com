@@ -11,10 +11,11 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    <language>pl-PL</language>
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | split: '<!--break-->' | first | xml_escape }}{{ "<p>Więcej na <a href='" | xml_escape }}{{ post.url | prepend: site.baseurl | prepend: site.url }}{{"'>Be More</a></p>" | xml_escape}}</description>
+        <description>{{ "<img src='" | xml_escape }}{{ post.image | prepend: '/images/thumbs/' | prepend: site.baseurl | prepend: site.url }}{{ "'/>" | xml_escape }}{{ post.content | split: '<!--break-->' | first | xml_escape }}{{ "<p>Więcej na <a href='" | xml_escape }}{{ post.url | prepend: site.baseurl | prepend: site.url }}{{"'>Be More</a></p>" | xml_escape}}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
