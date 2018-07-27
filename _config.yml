@@ -4,7 +4,7 @@ logo: womanonrails.jpg
 email: please-do-not-spam-me@womanonrails.com
 description: Każda chwila naszego życia jest niezwykle cenna. To nasz skarb. Nie warto go marnować na smutek, frustracje czy stres. Zapraszam Cię serdecznie na Be More. Przyłącz się do mnie i zacznij tworzyć swoje wymarzone życie. Życie pełne radości, zrosumienia i szczerości.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bemore.womanonrails.com" # the base hostname & protocol for your site
+url: "https://bemore.womanonrails.com" # the base hostname & protocol for your site
 twitter_username: womanonrails
 github_username:  womanonrails
 author: Agnieszka Matysek
