@@ -4,4 +4,7 @@ title: Zdjęcia
 permalink: /photos/
 ---
 
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9ffb6213b7f65cc98f1046e795ab4dcb.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<!-- InstaWidget -->
+<a href="https://instawidget.net/v/user/womanonrails" id="link-73e79de7e8a22444f5eed17c2ee1017712983bdf0cfac50c390b144f9cb53860">@womanonrails</a>
+<script src="https://instawidget.net/js/instawidget.js?u=73e79de7e8a22444f5eed17c2ee1017712983bdf0cfac50c390b144f9cb53860&width=100%"></script>
+
