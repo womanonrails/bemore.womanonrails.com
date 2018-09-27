@@ -90,7 +90,7 @@ Najtrudniejsza, jak można było się tego spodziewać, była dla mnie kategoria
 
 - dużą część rzeczy musiałam wyciągnąć od razu, nawet jeżeli nie były to przedmioty z przeglądanej przeze mnie kategorii, ze względu na panujący na półkach chaos i mieszanie się elementów z różnych kategorii
 - wiele elementów z tej samej kategorii było rozrzuconych po całym domu, więc trzeba było przynieść je w jedno miejsce by się nimi zająć
-- dopuki nie skategoryzowałam wszystkich elementów nie wiedziałam, że mam ich tak dużo
+- dopóki nie skategoryzowałam wszystkich elementów nie wiedziałam, że mam ich tak dużo
 - by nie zagłuszać swojego wewnętrznego odczuwania przedmiotów nie słuchałam ani muzyki, ani podcastów, porządki robiłam w zupełnej ciszy - no może poza momentami gdy mówiłam do siebie ;]
 - podczas całej tej przygody postawiłam sobie kilka dodatkowych celów, na przykład pozbycie się dodatkowych pudeł, w których gromadziłam rzeczy, nawet jeżeli część zawartości zostawała, to musiała być na tyle przemyślana, by całkowicie zmieścić się w moich meblach
 - po przemyśleniu użyteczności niektórych mebli, postanowiłam je sprzedać i uwolnić więcej przestrzeni, przykład szafka na telewizor (nie posiadam telewizora i była ona używana tylko raz w roku, jako dodatkowe miejsce do siedzenia, stwierdziłam że jest to zbyt mały pożytek, jak na tak duży mebel)
