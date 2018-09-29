@@ -9,6 +9,11 @@ twitter_username: womanonrails
 github_username:  womanonrails
 author: Agnieszka Matysek
 disqus_shortname: be-more
+lang: pl
+tech_blog:
+  title: Świat programowania widziany oczami kobiety - mój drugi blog
+  name: Woman on Rails
+  url: https://womanonrails.com/pl
 
 meta:
   title: Be More - jak być lepszym, szczęśliwym człowiekiem

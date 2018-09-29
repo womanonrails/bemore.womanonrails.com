@@ -1,10 +1,14 @@
 ---
 layout: post
-title: KonMari - moje przemyślenia
+title: Metoda KonMari w praktyce - moja przygoda z porządkowaniem
+headline: KonMari - moje przemyślenia
+description: Porządek i organizacja to moja obsesja. Tym razem eksperymentuję z metodą KonMari autorstwa Marie Kondō. Odkryj jak uporządkować dom.
 quote: Porządek jest przyjemnością rozumu, a nieład rozkoszą wyobraźni.
+excerpt: Jak uporządkowałam swoje mieszkanie wykorzystując japońską metodę KonMari?
 quote_author: Joanna Spencer - Grace. Księżna Monako
 image: konmari.jpg
-image_alt: Watro mieć wszystkie przedmioty w harmonii ze sobą.
+image_alt: Lampy w kształcie kól rozświetlone małymi żarówkmi.
+image_title: Watro mieć wszystkie przedmioty w harmonii ze sobą.
 tags: [minimalizm, porządki]
 comments: true
 ---

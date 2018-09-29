@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Zdjęcia
+headline: Zdjęcia
+title: Zdjęcia, z których jestem dumna
 permalink: /photos/
 ---
 

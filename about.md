@@ -1,6 +1,7 @@
 ---
 layout: page
-title: O mnie
+headline: O mnie
+title: Parę słów o tym kim jestem i co robię
 permalink: /about/
 ---
 
