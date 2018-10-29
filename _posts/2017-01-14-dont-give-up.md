@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Nie poddawaj się
+title: Jeżeli bardzo Ci na czymś zależy - nie poddawaj się
+headline: Nigdy się nie poddawaj
+description: Nie zawsze wszystko idzie tak jak chcemy. Czasem jest po prostu pod górkę. Ważne by się nie poddawać. Moje wnioski z trudnego problemu, z jakim się zmierzyłam.
+excerpt: Zdecyduj na czym Ci naprawdę zależy i walcz. Nie poddawaj sie w realizacji swoich największych marzeń.
 quote: Jak się napierdala, to nawet jak nie wychodzi, to wychodzi.
 quote_author: Krzysztof Gonciarz (z filmu Porażki)
 image: dont-give-up.jpg
-image_alt: Nie poddawaj się
+image_alt: Kilka trzymających się łodygi dmuchawcy (powstałych po przekwitnięciu najzwyklejszego mlecza)
+image_title: Każdy z nas ma coś o co warto walczyć
 tags: [plany, marzenia, wytrwałość]
 comments: true
 ---

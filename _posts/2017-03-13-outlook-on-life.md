@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Perspektywa
+title: Zmień perspektywę i spójrz na swoje życie z całkiem innej strony
+headline: Perspektywa
+description: Zmień perspektywę. Łatwo się mówi, trudniej zrobić. Rozważania na temat nabierania doświadczenia, perspektywy i mądrości życiowej.
+excerpt: Zmiana perspektywy daje nowe możliwości do interpretacji
 quote: Czasem, aby zobaczyć światło, trzeba tylko nieco zmienić perspektywę.
 quote_author: Dan Brown - Zaginiony symbol
 image: outlook-on-life.jpg
-image_alt: Nowa perspektywa
+image_alt: Okno, przez które widać błękitne niebo i delikatne białe chmurki
+image_title: Nowa perspektywa to okno na świat
 tags: [marzenia, życie, cele]
 comments: true
 ---

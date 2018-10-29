@@ -1,10 +1,14 @@
 ---
 layout: post
-title: 5 dni do minimalizmu
+title: Minimalizm w pigułce, 5 dni, 5 miejsc i świetna zabawa porządkami
+headline: 5 dni do minimalizmu
+description: Czy brakuje Ci czasem impulsu do zmiany? Oto on! W przeciągu 5-ciu dni możesz uporządkować najczęściej używane kobiece kąty. Zapraszam do zabawy!
+excerpt: 5 dni, 5 wyzwań - Zacznij swoją przygodę z porządkowaniem i zakochaj się w minimalizmie
 quote: Nieważne jest w moich oczach, czy człowiek będzie mniej czy więcej posiadał. Ważne jest, czy będzie mniej czy bardziej człowiekiem.
 quote_author: Antoine de Saint-Exupéry – Twierdza
 image: 5-days-to-minimalism.jpg
-image_alt: Five days to minimalism
+image_alt: Jeden egzotyczny kwiat na białym tle jako symbol minimalizmu
+image_title: Minimalizm jest piękny tak jak kwiat
 tags: [minimalizm]
 comments: true
 ---

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Stwórz własną rzeczywistość
+title: Zacznij działać i stwórz własną rzeczywistość, którą pokochasz
+headline: Stwórz własną rzeczywistość
+description: Każdy z nas może stworzyć wokół siebie lepszy świat. Trzeba tylko chcieć coś zmienić.
 quote: Musicie od siebie wymagać, nawet gdyby inni od Was nie wymagali
 quote_author: Jan Paweł II
+excerpt: Wyzwanie by zacząć działać i zmieniać świat na lepsze
 image: my-own-reality.jpg
-image_alt: My own reality
+image_alt: Wiele drzwi o różnych kształtach, wymiarach i kolorach
+image_title: Moja własna rzeczywistość
 tags: [start, wymagania]
 comments: true
 ---

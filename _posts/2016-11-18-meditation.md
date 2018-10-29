@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Słuchaj swojego ciała
+title: Medytacja - moje pierwsze spostrzeżenia
+headline: Słuchaj swojego ciała
+description: W świecie bycia on-line, notyfikacji i materializmu, wpadamy w szalony pościg, gubiąc tu i teraz. Medydacja może pomóc nam odnaleźć siebie, do swoich pragnień.
+excerpt: Medytacja pomoże Ci obserować swoje ciało i duszę
 quote: Gdy jesteś głodny jedz, gdy jesteś zmęczony śpij.
-quote_author: aplicacja Calm
+quote_author: aplikacja Calm
 image: meditation.jpg
-image_alt: Medytacja
+image_alt: Kwiat lawendy na łące
+image_title: Medytacja jako forma relaksu dla duszy i ciała
 tags: [przepracowanie, medytacja, zdrowie]
 comments: true
 ---

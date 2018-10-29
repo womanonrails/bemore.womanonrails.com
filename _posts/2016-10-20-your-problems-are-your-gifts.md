@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Czego uczą problemy?
+title: Każdy problem jest wyzwaniem, ale to dzięki problemom uczymy się najwięcej i doceniamy to co mamy
+headline: Czego uczą problemy?
+description: Masz problem - nie załamuj się! Popatrz na niego z innej perspektywy i wyciągnij wnioski. Oto jak ja zmierzyłam się z moimi problemami i czego się nauczyłam.
+excerpt: Z każdego problemu da się wyciągnąć jakąś naukę, trzeba tylko mieć otwarty umysł.
 quote: Twoje problemy to Twój dar. Twoje problemy to Twoja siła.
 quote_author: Tony Robbins
 image: problems.jpg
-image_alt: Problemy
+image_alt: Balkony w jednym z bloków w Sofii
+image_title: Każdy z nas ma problemy. Każdy z nich jest inny, ale zawsze możemy się czegoś nauczyć dzięki problemom.
 tags: [przepracowanie, problemy]
 comments: true
 ---

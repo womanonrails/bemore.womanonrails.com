@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Spontaniczność vs planowanie
+title: Czym jest spontaniczność i czy można planowanie zastąpić spontanicznością?
+headline: Spontaniczność vs planowanie
+description: Jeżeli jesteś maniakiem planowania tak jak ja, przyda Ci się odrobina innej perspektywy. Co można wynieść z tygodnia spontaniczności? Sprawdź sama!
+excerpt: Co daje spontaniczność i jak z niej korzystać na co dzień?
 quote: Jeśli chcesz coś zaplanować, zaplanuj nieplanowaną spontaniczność.
 quote_author: (nieznany)
 image: spontaneous.jpg
-image_alt: Spontaniczność
+image_alt: Stary zergar, który przypomina o dobrym planowaniu czasu
+image_title: Nie tylko planowanie przydaje się w życiu, trzeba też znaleść czas na odrobinę spontaniczności.
 tags: [spontaniczność]
 comments: true
 ---
