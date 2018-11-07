@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Komunikacja
-quote: Bo rozmowa to dawanie siebie i branie w siebie tego, kto z tobą rozmawia.
+title: Jak efektywnie komunikować swoje potrzeby, uczucia i emocje? - Porozumienie Bez Przemocy
+headline: Komunikacja
+description: Jeżeli masz problem z wyrażaniem emocji bez ranienia uczyć innych, to Porozumienie Bez Przemocy jest właśnie dla Ciebie. Sprawdź i przekonaj się już teraz!
+excerpt: Kilka sposobów na lepszą komunikację z innymi ludźmi.
+quote: Bo rozmowa to dawanie siebie i branie w siebie tego, kto z Tobą rozmawia.
 quote_author: ks. Mieczysław Maliński - Rozmawiaj
 image: communication.jpg
-image_alt: Communication
+image_alt: Restauracja z białymi stolikami i dużymi oknami, gdzie kilka osób je lunch
+image_title: Komunikacja to podstawa naszych relacji z ludźmi
 tags: [komunikacja, empatia, zrozumienie]
 comments: true
 ---

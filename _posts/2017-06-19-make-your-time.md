@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Mój czas
+title: Kiedy powiedzieć STOP (HALT) zmęczeniu i jak znaleść czas na małe przyjemności?
+headline: Mój czas
+description: Z biegiem lat czas mija nam coraz szybciej. Zagonieni codziennością zapominamy o małych przyjemnościach. Jak zmienić tą sytuację? Przekonaj się sama.
+excerpt: Znajdź czas dla siebie za pomocą metody HALT.
 quote: Slow down and truly see the things that matter most.
 quote_author: (unknown)
 image: me-time.jpg
-image_alt: Me time
+image_alt: Zachód słońca nad blokami
+image_title: Potrzebujemy czasu na małe przyjemności takie jak zachód słońca
 tags: [czas, slow life, szczęście]
 comments: true
 ---
 
-Na początku maja pomimo zimnych i deszczowych dni zakwit bez. Po długich oczekiwaniach w końcu pojawił się pierwszy piękny, słoneczny dzień. Z samego rana wybrałam się po coś na śniadanie. Moja droga do sklepu prowadzi przez urokliwe miejsce całe usłane bzem. Przechodząc tamtędy pomyślałam, że to piękne miejsce by się zatrzymać, po rozkoszować zapachem i zrobić kilka zdjęć.  Spojrzałam na zegarek i stwierdziłam: _teraz nie mam czasu, zatrzymam się tu następnym razem_. Dni mijały, bez przekwitł a ja nie zajrzałam w to miejsce. Nie było następnego razu. **Carpe diem.** Tak...
+Na początku maja pomimo zimnych i deszczowych dni zakwitł bez. Po długich oczekiwaniach w końcu pojawił się pierwszy piękny, słoneczny dzień. Z samego rana wybrałam się po coś na śniadanie. Moja droga do sklepu prowadzi przez urokliwe miejsce całe usłane bzem. Przechodząc tamtędy pomyślałam, że to piękne miejsce by się zatrzymać, po rozkoszować zapachem i zrobić kilka zdjęć.  Spojrzałam na zegarek i stwierdziłam: _teraz nie mam czasu, zatrzymam się tu następnym razem_. Dni mijały, bez przekwitł a ja nie zajrzałam w to miejsce. Nie było następnego razu. **Carpe diem.** Tak...
 
 <!--break-->
 
