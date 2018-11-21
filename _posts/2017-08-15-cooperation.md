@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Współpraca
+title: Jak zamienić konkurencję na współpracę?
+headline: Współpraca
+description: Trudno jest nie rywalizować, gdy widzi się konkurencje na rynku. Jak podejść do problemu bez zbędnego stresu i dodatkowo zyskać współpracownika?
+excerpt: Współpraca jest trudna, ale również bardziej satysfakcjonująca.
 quote: Nie musisz płynąć pod prąd, żeby zdobyć to, czego pragniesz.
 quote_author: Regina Brett - Bóg zawsze znajdzie Ci prace
 image: cooperation.jpg
-image_alt: Cooperation
+image_alt: Rozświetlona scena, na której występuje zespół muzyczny
+image_title: Współpraca z innymi może dać niesamowite efekty. Tak się dzieje na scenie przy występach zespołów muzycznych.
 tags: [współpraca, szczęście, relacje]
 comments: true
 ---

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Małe przyjemności
+title: 30 moich małych przyjemności
+headline: Małe przyjemności
+description: Zainspiruj się moimi małymi przyjemnościami i sama spraw sobie radość. Tak niewiele trzeba by poczyć się szczęśliwą.
+excerpt: 30 inspiracji na małe przyjemności.
 quote: Szczęście jest przyjemnością wolną od wyrzutów sumienia
 quote_author: Sokrates
 image: pleasures.jpg
-image_alt: Pleasures
+image_alt: Żółte kwiatki pokazane w żabiej perspektywie z widokiem za niebieskie niebo.
+image_title: Słońce, kwiaty, niebo - wszystko może być drobną przyjemnością dla naszej duszy.
 tags: [szczęście, przyjemności]
 comments: true
 ---

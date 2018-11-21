@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Wdzięczność
+title: Wdzięczność - sposób na radość z każdego dnia
+headline: Wdzięczność
+description: Jak cieszyć się każdym dniem? Moja odpowedź to wdzięczność. Zobacz, jak wykorzystuję wdzięczność do czerpania radości z życia.
+excerpt: Wdzięczność to sposób na szczęście każdego dnia.
 quote: The light in you is too bright to fail.
 quote_author: Corrine Zupko
 image: gratitude.jpg
-image_alt: Wdzięczność
+image_alt: Gałązki pełne różowych kwiatów.
+image_title: Nasze życie powinno być pełne wdzięczności, jak gałęzie są pełne kwiatów.
 tags: [szczęście, radość]
 comments: true
 ---

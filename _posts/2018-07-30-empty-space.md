@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Zapełnianie pustki
+title: Jak oczyścić sobie przestrzeń, bez ponownego zapełniania? - Wyzwanie na sierpień
+headline: Zapełnianie pustki
+description: Jak bardzo Tobie przeszkadza pusta przestrzeń? Czy masz ochotę od razu ją zapełnić? Czas na sprzątanie i odnajdywanie wolnej przestrzeni.
+excerpt: Znajdź w swoim życiu trochę miejsca na pustą przestrzeń.
 quote: When you are overwhelmed, tired or stressed, the solution is almost always... less.
 quote_author: Be more with less - Courtney Carver
 image: empty-space.jpg
-image_alt: Pusta przestrzeń też może być piękna.
+image_alt: Bańki mydlane na tle niebieskiego nieba.
+image_title: Pusta przestrzeń też może być piękna.
 tags: [minimalizm, porządki]
 comments: true
 ---
