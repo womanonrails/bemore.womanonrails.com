@@ -7,8 +7,8 @@ excerpt: Co daje spontaniczność i jak z niej korzystać na co dzień?
 quote: Jeśli chcesz coś zaplanować, zaplanuj nieplanowaną spontaniczność.
 quote_author: (nieznany)
 image: spontaneous.jpg
-image_alt: Stary zergar, który przypomina o dobrym planowaniu czasu
-image_title: Nie tylko planowanie przydaje się w życiu, trzeba też znaleść czas na odrobinę spontaniczności.
+image_alt: Stary zegar, który przypomina o dobrym planowaniu czasu
+image_title: Nie tylko planowanie przydaje się w życiu, trzeba też znaleźć czas na odrobinę spontaniczności.
 tags: [spontaniczność]
 comments: true
 ---

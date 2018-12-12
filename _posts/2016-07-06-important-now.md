@@ -2,7 +2,7 @@
 layout: post
 title: Jutro nie istnieje, liczy się tylko tu i teraz
 headline: Tu i teraz
-description: Żyjesz mrzonkami o lepszej przyszlości? Marzysz by uratował Cię rycerz na białym koniu? Zamiast czekać na lepsze jutro ciesz się dniem dzisiejszym.
+description: Żyjesz mrzonkami o lepszej przyszłości? Marzysz by uratował Cię rycerz na białym koniu? Zamiast czekać na lepsze jutro ciesz się dniem dzisiejszym.
 quote: Bądź tu i teraz. Po prostu tu i po prostu teraz. Bez oczekiwań i bez obaw, bez jutra i bez wczoraj, bez utrzymywania i bez odpychania. Z pełną przytomnością – tu i teraz.
 quote_author: Ole Nydahl
 excerpt: Świadome dzisiaj, jako rada na życie przyszłością.

@@ -3,7 +3,7 @@ layout: post
 title: 5 wskazówek jak być szczęśliwą w życiu
 headline: Podróż do celu
 description: Nie tylko cel się liczy. Podróż też powinna być przyjemna. 5 wskazówek jak cieszyć się nie tylko z końcowego sukcesu, ale też z kroków stawianych po drodze.
-excerpt: 5 wskazówek jak odnaleść w życiu szczęście
+excerpt: 5 wskazówek jak odnaleźć w życiu szczęście
 quote: Idź swoją drogą, a ludzie niech mówią, co chcą.
 quote_author: Alighieri Dante
 image: travel-to-your-goal.jpg

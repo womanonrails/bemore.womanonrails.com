@@ -2,7 +2,7 @@
 layout: post
 title: 30 moich małych przyjemności
 headline: Małe przyjemności
-description: Zainspiruj się moimi małymi przyjemnościami i sama spraw sobie radość. Tak niewiele trzeba by poczyć się szczęśliwą.
+description: Zainspiruj się moimi małymi przyjemnościami i sama spraw sobie radość. Tak niewiele trzeba by poczuć się szczęśliwą.
 excerpt: 30 inspiracji na małe przyjemności.
 quote: Szczęście jest przyjemnością wolną od wyrzutów sumienia
 quote_author: Sokrates

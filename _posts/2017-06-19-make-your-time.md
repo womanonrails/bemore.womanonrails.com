@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kiedy powiedzieć STOP (HALT) zmęczeniu i jak znaleść czas na małe przyjemności?
+title: Kiedy powiedzieć STOP (HALT) zmęczeniu i jak znaleźć czas na małe przyjemności?
 headline: Mój czas
 description: Z biegiem lat czas mija nam coraz szybciej. Zagonieni codziennością zapominamy o małych przyjemnościach. Jak zmienić tą sytuację? Przekonaj się sama.
 excerpt: Znajdź czas dla siebie za pomocą metody HALT.

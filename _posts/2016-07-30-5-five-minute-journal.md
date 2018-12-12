@@ -2,7 +2,7 @@
 layout: post
 title: The Five Minute Journal - wdzięczność każdego dnia
 headline: The Five Minute Journal
-description: Masz problem w odkrywaniu dobrych stron zwykłego dnia? Spróbój metody Five Minute Journal (Pięciominutowej podróży). Pomoże Ci zobaczyć wartość w każdym najzwyklejszym dniu i da możliwość poprawy następnych dni.
+description: Masz problem w odkrywaniu dobrych stron zwykłego dnia? Spróbuj metody Five Minute Journal (Pięciominutowej podróży). Pomoże Ci zobaczyć wartość w każdym najzwyklejszym dniu i da możliwość poprawy następnych dni.
 excerpt: The Five Minute Journal jako sposób na pozytywne zaprogramowanie dnia.
 quote: Nie prawda, że jesteś wdzięczny bo jesteś szczęśliwy, jesteś szczęśliwy bo jesteś wdzięczny.
 quote_author: (nieznany)

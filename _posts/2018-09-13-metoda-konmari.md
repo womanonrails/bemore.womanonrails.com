@@ -7,7 +7,7 @@ excerpt: Jak uporządkowałam swoje mieszkanie wykorzystując japońską metodę
 quote: Porządek jest przyjemnością rozumu, a nieład rozkoszą wyobraźni.
 quote_author: Joanna Spencer - Grace. Księżna Monako
 image: konmari.jpg
-image_alt: Lampy w kształcie kól rozświetlone małymi żarówkmi.
+image_alt: Lampy w kształcie kół rozświetlone małymi żarówkami.
 image_title: Watro mieć wszystkie przedmioty w harmonii ze sobą.
 tags: [minimalizm, porządki]
 comments: true
@@ -63,7 +63,7 @@ A oto lista kategorii w odpowiedniej kolejności. Porządkując powinno zacząć
   - Rzeczy do makijażu
   - Dodatkowe akcesoria
   - Paszporty, karty kredytowe, karty lojalnościowe
-  - Sprzęt elektroniczy (telefon, aparat fotograficzny, głośniki, słuchawki, baterie, power-banki itd.)
+  - Sprzęt elektroniczny (telefon, aparat fotograficzny, głośniki, słuchawki, baterie, power-banki itd.)
   - Artykuły papiernicze, biurowe (długopisy, kredki, farby, mazaki itd.)
   - Przybory do szycia
   - Środki do utrzymania domu (środki czystości, płyny do podłóg, do łazienki, detergenty, proszki do prania itd.)

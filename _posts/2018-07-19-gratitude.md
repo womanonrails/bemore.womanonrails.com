@@ -2,7 +2,7 @@
 layout: post
 title: Wdzięczność - sposób na radość z każdego dnia
 headline: Wdzięczność
-description: Jak cieszyć się każdym dniem? Moja odpowedź to wdzięczność. Zobacz, jak wykorzystuję wdzięczność do czerpania radości z życia.
+description: Jak cieszyć się każdym dniem? Moja odpowiedź to wdzięczność. Zobacz, jak wykorzystuję wdzięczność do czerpania radości z życia.
 excerpt: Wdzięczność to sposób na szczęście każdego dnia.
 quote: The light in you is too bright to fail.
 quote_author: Corrine Zupko
@@ -23,7 +23,7 @@ Tak było też z [The 5 minute journal](/2016/07/30/5-five-minute-journal.html),
   <h3>Początek zmian</h3>
 </div>
 
-Na początku roku 2018 postanowiłam coś zmienić. Zrobiłam siebie postanowienie, że nic na siłę. Zależy mi na tym, by czerpać z tych krótkich porannych i wieczornych chwil radość, a nie męczyć się z taka myślą _„Ohhh... po co ja to właściwie robię?”_. Zmieniłam sposób w jakim podchodzę do sprawy i po pół roku czuje, że to była dobra decyzja. Po pierwsze przestałam trzymać się ustalonego czasu. Nie spisuje moich myśli każdego ranka i wieczora. Robię to wtedy, gdy zdam sobie sprawę, że zdarzyło się dla mnie coś ważnego, cudownego. Nie dość, że nie mam teraz już tych momentów kompletnego zaćmienia, gdy chcę coś napisać, a tu nic mi do głowy nie przychodzi, to jeszcze zapisuje wszystkie małe, ale szczególe dla mnie chwile. Dodatkowo ćwiczę w sobie tą świadomość małych sukcesów, czy małych wdzięczność. Bo trzeba się na chwilę zatrzymać. Poczuć to cudowne uczucie w sobie. I spisać na kartach zwykłego kalendarza A5. Takiego, co ma jedna stronę przeznaczoną na jeden dzień. I działa!
+Na początku roku 2018 postanowiłam coś zmienić. Zrobiłam siebie postanowienie, że nic na siłę. Zależy mi na tym, by czerpać z tych krótkich porannych i wieczornych chwil radość, a nie męczyć się z taka myślą _„Och, po co ja to właściwie robię?”_. Zmieniłam sposób w jakim podchodzę do sprawy i po pół roku czuje, że to była dobra decyzja. Po pierwsze przestałam trzymać się ustalonego czasu. Nie spisuje moich myśli każdego ranka i wieczora. Robię to wtedy, gdy zdam sobie sprawę, że zdarzyło się dla mnie coś ważnego, cudownego. Nie dość, że nie mam teraz już tych momentów kompletnego zaćmienia, gdy chcę coś napisać, a tu nic mi do głowy nie przychodzi, to jeszcze zapisuje wszystkie małe, ale szczególe dla mnie chwile. Dodatkowo ćwiczę w sobie tą świadomość małych sukcesów, czy małych wdzięczność. Bo trzeba się na chwilę zatrzymać. Poczuć to cudowne uczucie w sobie. I spisać na kartach zwykłego kalendarza A5. Takiego, co ma jedna stronę przeznaczoną na jeden dzień. I działa!
 
 <div class='post-header'>
   <h3>Moje nowe pytania</h3>
