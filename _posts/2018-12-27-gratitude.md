@@ -20,7 +20,7 @@ Zbliża się koniec roku. Wszyscy zaczynają planować Nowy Rok. Jaki to on nie 
 Oto 30 moich małych wdzięczności, które sprawiły ten rok lepszym:
 
 1. Dziękuję za moich bliskich, którzy wspierają mnie w moich planach i decyzjach, za to że stoją za mną murem i mogę liczyć na ich pomoc w każdym momencie.
-2. Dziękuję, że w tym roku udało mi się zrealizować 2 dwa wyjazdy zagraniczne jeden do Danii a drugi na Słowację.
+2. Dziękuję, że w tym roku udało mi się zrealizować 2 dwa wyjazdy zagraniczne, jeden do Danii, a drugi na Słowację.
 3. Dziękuję, że mogę patrzeć jak rośnie i rozwija się mój chrześniak. To niesamowite jak szybko się to dzieje!
 4. Dziękuję, że udało mi się zadbać o swój wzrok i dobrze się czuje w moich nowych okularach.
 5. Dziękuję, że mogę raz na jakiś czas sprawić sobie odrobinę przyjemności i na przykład zadbać o swoje paznokcie.
@@ -39,9 +39,9 @@ Oto 30 moich małych wdzięczności, które sprawiły ten rok lepszym:
 18. Dziękuję mojej bratowej, która pomimo wielu obowiązków pomaga mi w doskonalić znajomość języka angielskiego.
 19. Dziękuję, że mogłam odkryć minimalizm i wprowadzić jego kawałek w swoje życie. To dało mi taką niesamowitą lekkość oraz czystość w mojej małej domowej przestrzeni i nie tylko.
 20. Dziękuję za najcudowniejszy prezent jaki mnie spotkał w pewnym sennym escape roomie. To prezent, który zmienił moje życie.
-21. Dziękuję za pokazanie mi miejsca, gdzie można dostać przepyszne lody. Moje ulubione smaki tego lata to mascarpone z malinami i pistacją.
+21. Dziękuję za pokazanie mi miejsca, gdzie można dostać przepyszne lody. Moje ulubione smaki tego lata to mascarpone z malinami oraz pistacja.
 22. Dziękuję za znalezienie w duńskim sklepie świec adwentowych z podziałką na 24 dni. To cudowna odmiana od czekoladowych kalendarzy adwentowych.
-23. Dziękuję za śnieg, który choć przez chwile umilił tą ponura zimową aurę.
+23. Dziękuję za śnieg, który choć przez chwile umilił tą ponurą, zimową aurę.
 24. Dziękuję za kota sąsiada, który odwiedza mnie czasem i umila chwile swoimi psotami.
 25. Dziękuję za czekającą na mnie gorąca herbatę, za kanapki podsuwane mi pod sam nos, za serduszka z panierki do kotletów i za maślane oczy z cudownym uśmiechem.
 26. Dziękuję za możliwość wzięcia udziału w warsztatach z programowania. Brakowało mi nowej perspektywy na moją pracę a te warsztaty dały mi ją.
