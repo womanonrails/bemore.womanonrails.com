@@ -19,9 +19,9 @@ Jeszcze w trochę zimowym nastroju, bo w końcu luty, ale gotowa do książkoweg
 
 Pierwsza i najważniejsza sprawa **jestem z siebie niesamowicie dumna**, że w 2021 udało mi się przeczytać ponad 30 książek. Jestem dyslektyczką i czytanie to był dla mnie zawsze trudny temat. Chciałam czytać, chciałam być częścią innych światów, zapoznawać się z odmiennym od mojego postrzeganiem świata. Jednak typografia wielu książek jest dla mnie nie do przejścia. Literki są za małe, odstępy zbyt wąskie, a wybrana czcionka nie czytelna. Inne osoby nie zwrócą na to uwagi, a mnie utrudni lub całkowicie zablokuje to czytanie. Ktoś powie przecież są audiobooki. Są. Jeśli chodzi o powieści uważam super sprawa. Jednak książki techniczne, bardziej specjalistyczne lub książki o ważnym ale trudnym temacie są dla mnie nie do przejścia w postaci audio.
 
-Moja sytuacja czytelnicza zmieniła się gdy zaczęłam czytać ebooki. Uwielbiam książki papierowe, mam do nich niesamowity szacunek i sentyment. I nie porzucam ich całkowicie. Jednak możliwość dostosowania wielkości fontu, odstępów między liniami a nawet kontrastu sprawia, że mogę czuć się komfortowo. Mogę czytać na własnych zasadach. I to jest super. Dzięki czytaniu ebooków, moja pewność siebie odnośnie umiejętności czytania wzrosła o 1000%.
+Moja sytuacja czytelnicza zmieniła się gdy zaczęłam czytać e-booki. Uwielbiam książki papierowe, mam do nich niesamowity szacunek i sentyment. I nie porzucam ich całkowicie. Jednak możliwość dostosowania wielkości fontu, odstępów między liniami a nawet kontrastu sprawia, że mogę czuć się komfortowo. Mogę czytać na własnych zasadach. I to jest super. Dzięki czytaniu e-booków, moja pewność siebie odnośnie umiejętności czytania wzrosła o 1000%.
 
-Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieliłam na kilka luźnych, subiektywnych kategorii. Część czytałam w papierze, część w ebooku a resztę słuchałam. O każdej z nich postaram się napisać kilka słów.
+Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieliłam na kilka luźnych, subiektywnych kategorii. Część czytałam w papierze, część w e-booku a resztę słuchałam. O każdej z nich postaram się napisać kilka słów.
 
 ## Poradniki
 
@@ -43,7 +43,7 @@ Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieli
 
 - **Wysoko wrażliwi. Jak funkcjonować w świecie, który nas przytłacza** - _Elaine N. Aron_
 
-    Mam z tą książką problem. Z jednej strony pokazała mi, że istnieją inne osoby borykające się z szybkim przebodźcowaniem i wysoką wrażliwością na różne rzeczy. Z drugiej strony, nie podoba mi się określanie takich osób jako _klasę kapłańską_, jakby bardziej wyjątkową.
+    Mam z tą książką problem. Z jednej strony pokazała mi, że istnieją inne osoby borykające się z szybkim prze-bodźcowaniem i wysoką wrażliwością na różne rzeczy. Z drugiej strony, nie podoba mi się określanie takich osób jako _klasę kapłańską_, jakby bardziej wyjątkową.
 
 - **Emocjonalne pułapki przeszłości. Jak przełamać negatywne wzorce zachowań?** - _Gitta Jacob, Laura Seebauer i Hannie van Genderen_
 
@@ -171,7 +171,7 @@ Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieli
 
     (audio) Bardzo przyjemna, skłaniająca do myślenia książka o naszej teraźniejszości i przyszłości.
 
-## Książki, które pożuciłam
+## Książki, które porzuciłam
 
 Na koniec jeszcze chciałam podzielić się książkami, które zaczęłam czytać, ale z różnych powodów porzuciłam.
 
