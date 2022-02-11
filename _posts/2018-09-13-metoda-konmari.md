@@ -8,7 +8,7 @@ quote: Porządek jest przyjemnością rozumu, a nieład rozkoszą wyobraźni.
 quote_author: Joanna Spencer - Grace. Księżna Monako
 image: konmari.jpg
 image_alt: Lampy w kształcie kół rozświetlone małymi żarówkami.
-image_title: Watro mieć wszystkie przedmioty w harmonii ze sobą.
+image_title: Warto mieć wszystkie przedmioty w harmonii ze sobą.
 tags: [minimalizm, porządki]
 comments: true
 ---

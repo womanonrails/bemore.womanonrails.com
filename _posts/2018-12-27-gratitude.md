@@ -8,7 +8,7 @@ quote: Bądź wdzięczny za to, co masz, a będziesz miał tego więcej. Jeśli 
 quote_author: Oprah Winfrey
 image: gratitude-for-end-of-year.jpg
 image_alt: Rozmazane, nieostre światła w mieście
-image_title: Każde małe światełko to odrobina wdzięczność
+image_title: Każde małe światełko to odrobina wdzięczności
 tags: [szczęście, wdzięczność]
 comments: true
 ---
