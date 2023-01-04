@@ -20,10 +20,18 @@ meta:
   description: Chcesz być szczęśliwy? Szczęśliwy na własnych warunkach? Tu znajdziesz moje przemyślenia na temat życia.
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    disable: false
+    line_numbers: false
 paginate: 12
 
-gems:
+# Plugins settings
+plugins:
   - jekyll-paginate
 
 exclude:
