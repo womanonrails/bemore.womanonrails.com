@@ -25,7 +25,7 @@ title: Zobacz moje wpisy podzielone na kategorie
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">({{ post.date | date: "%B %d, %Y" }})</time></a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">({{ post.date | date: "%B %d, %Y" }})</time></span></a></li>
       {% endif %}
       {% endif %}
     {% endfor %}
