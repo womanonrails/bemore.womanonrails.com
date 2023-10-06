@@ -36,5 +36,4 @@ plugins:
 
 exclude:
   - Gemfile
-  - gh-pages.sh
   - README.md
