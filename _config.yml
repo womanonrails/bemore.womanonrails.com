@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bemore.womanonrails.com" # the base hostname & protocol for your site
 twitter_username: womanonrails
 github_username:  womanonrails
-author: Agnieszka Matysek
+author: Agnieszka Małaszkiewicz
 disqus_shortname: be-more
 lang: pl
 tech_blog:
