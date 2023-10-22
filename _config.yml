@@ -28,11 +28,17 @@ kramdown:
   syntax_highlighter_opts:
     disable: false
     line_numbers: false
-paginate: 12
+
+pagination:
+  debug: false
+  enabled: true
+  per_page: 12
+  permalink: '/page:num/'
+  title: ':title - strona :num'
 
 # Plugins settings
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 exclude:
   - Gemfile
