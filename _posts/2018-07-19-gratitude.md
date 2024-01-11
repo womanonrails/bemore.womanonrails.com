@@ -35,7 +35,6 @@ Po drugie zmieniłam pytania. A właściwie to wyrzuciłam wszystkie pytania i z
 - **Jestem dumna z ...** - to bardzo dla mnie ważna sekcja, ponieważ jestem niesamowicie wymagająca dla samej siebie. Pozwala mi zachować balans pomiędzy tym, co mi wyszło, moimi małymi sukcesami a ciągłą chęcią doskonalenia samej siebie.
 - **Co chce zmienić? Co chce robić lepiej?** - to takie miejsce na zastanowienie się nad przeżytym dniem. Przykładowo jeżeli byłam marudna, bo za mało spałam w nocy, to w tą sekcję trafi notka o chodzeniu wcześniej spać, zmianie materaca lub poduszki.
 
-
 <div class='post-header'>
   <h3>Jak wygląda taki mój przykładowy wpis?</h3>
 </div>
@@ -44,6 +43,7 @@ Po drugie zmieniłam pytania. A właściwie to wyrzuciłam wszystkie pytania i z
 <br>
 
 **Dziękuje za ...**
+
 - spokojny poranek
 - za równie spokojny wieczór
 - za dobre jedzenie, które dostałam od mamy
@@ -52,6 +52,7 @@ Po drugie zmieniłam pytania. A właściwie to wyrzuciłam wszystkie pytania i z
 - za fajnie plany na weekend
 
 **Jestem dumna z ...**
+
 - załatwienia sprawy moich oprawek do okularów, które mnie uwierały
 - zrobienia zakupów na cały tydzień
 - zrobienia prania
@@ -59,9 +60,9 @@ Po drugie zmieniłam pytania. A właściwie to wyrzuciłam wszystkie pytania i z
 - zamówienie wizyty u kosmetyczki, którą odwlekałam od wieków
 
 **Co chce zmienić? Co chce robić lepiej?**
+
 - Lepiej wyrażać swoje emocje.
 - Reagować wcześniej, gdy ktoś narusza moje granice.
-
 
 <div class='post-header'>
   <h3>Co mi to daje?</h3>
@@ -72,5 +73,3 @@ To teraz najważniejsza sprawa. Co mi to daje? Przede wszystkim zaczęłam lepie
 <br>
 
 Na koniec życzę Wam byście też w swoim życiu czuli się cudownie. Niezależnie od tego jaka droga doprowadzi Was do tego szczęścia. A może chcecie się podzielić Waszymi przemyśleniami? Co Was uszczęśliwia? Co sprawia Wam radość? Zapraszam do komentowania, poniżej. Dużo miłości i do następnego razu!
-
-
