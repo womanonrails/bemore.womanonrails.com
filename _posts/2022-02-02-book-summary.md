@@ -79,7 +79,7 @@ Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieli
 
 - **Czuła przewodniczka. Kobieca droga do siebie** - _Natalia de Barbaro_
 
-    🥰 Cudowna książka. Może o tym świadczyć to, że przeczytałam ją 3 razy w 2021 roku. Czytając czułam się jakbym rozmawiała z przyjaciółką. Bardzo otulająca, mówiąca o tym, że jestem wystarczająca taka jaka jestem. Napisałam o niej nawet na <a href="https://www.instagram.com/p/CWFzJkBAA_O/" title="Instagram Woman on Rails programuje - recenzja książki Czuła przewodniczka" target="_blank" rel="nofollow noopener noreferrer">Instagram womanonrails_programuje</a>
+    🥰 Cudowna książka. Może o tym świadczyć to, że przeczytałam ją 3 razy w 2021 roku. Czytając czułam się jakbym rozmawiała z przyjaciółką. Bardzo otulająca, mówiąca o tym, że jestem wystarczająca taka jaka jestem. Napisałam o niej nawet na Instagramie [Woman on Rails programuje](https://www.instagram.com/womanonrails_programuje/) - [recenzja książki "Czuła przewodniczka"](https://www.instagram.com/p/CWFzJkBAA_O/)
 
 - **Stanowczo, łagodnie, bez lęku** - _Maria Król-Fijewska_
 
@@ -97,7 +97,7 @@ Przechodzimy do konkretów. Książki, które przeczytałam w 2021 roku podzieli
 
 - **It Doesn't Have to Be Crazy at Work** - _Basecamp_
 
-    🤩 Stanowcze przypomnienie o tym, że przepracowanie i ciągłe nadgodziny to droga donikąd. Firmy nie powinny tak pracować, przynajmniej te, które chcą mieć zdrowych i efektywnych pracowników. Napisałam o tej książce na <a href="https://www.instagram.com/p/CN7X5dZAq-K/" title="Instagram Woman on Rails programuje - recenzja książki It Doesn't Have to Be Crazy at Work" target="_blank" rel="nofollow noopener noreferrer">Instagram womanonrails_programuje</a>
+    🤩 Stanowcze przypomnienie o tym, że przepracowanie i ciągłe nadgodziny to droga donikąd. Firmy nie powinny tak pracować, przynajmniej te, które chcą mieć zdrowych i efektywnych pracowników. Napisałam o tej książce na Instagramie [Woman on Rails programuje](https://www.instagram.com/womanonrails_programuje/) - [recenzja książki "It Doesn't Have to Be Crazy at Work"](https://www.instagram.com/p/CN7X5dZAq-K/)
 
 ## Powieści
 
