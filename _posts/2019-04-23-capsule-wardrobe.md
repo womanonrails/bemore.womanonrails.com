@@ -23,14 +23,14 @@ Gdy przeprowadzałam się na moje nowe mieszkanie, ubrań było stanowczo za du�
 
 A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę do sedna, chciałabym dodać jeszcze jedną rzecz. W oryginalnym projekcie 333, ubrania wymienia się raz na 3 miesiące, czyli na jedną porę roku. Ponieważ moja garderoba nie zmienia się tak drastycznie między sezonami, to przygotowuje swoją szafę dwa razy w roku. Raz na miesiące ciepłe, czyli wiosna-lato, a raz na miesiące zimne, czyli jesień-zima. Oto jak wygląda moja szafa w sezonie wiosenno-letnim.
 
-### Nakrycia wyjściowe (4):
+### Nakrycia wyjściowe (4)
 
 - Czarny płaszcz przejściowy (idealny na wiosenne dni)
 - Kurtka skórzana
 - Kurtka jeansowa
 - Czarna kurtka, składana do pokrowca
 
-### Swetry (5):
+### Swetry (5)
 
 - Szary sweter
 - Szary długi sweter
@@ -38,12 +38,12 @@ A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę
 - Czerwony sweter rozpinany
 - Bluza sportowa
 
-### Sukienki (2):
+### Sukienki (2)
 
 - Sukienka w kwiaty
 - Sukienka granatowa
 
-### Chustki (5):
+### Chustki (5)
 
 - Fioletowa
 - Kremowa z cekinami
@@ -51,28 +51,28 @@ A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę
 - Indyjska turkusowa
 - Szary komin
 
-### Długie rękawy (4):
+### Długie rękawy (4)
 
 - Szary
 - Granatowy
 - Granatowy w paski
 - Czarny z dzianiny
 
-### Spodnie (4):
+### Spodnie (4)
 
 - Krótkie spodenki czarne
 - Letnie biało-czarne
 - Czarne lekkie
 - Jeansy
 
-### Spódnice (4):
+### Spódnice (4)
 
 - Czarna
 - Niebieska ołówkowa
 - Granatowa jeansowa
 - Czerwona
 
-### T-shirt (7):
+### T-shirt (7)
 
 - Różowy bez rękawków
 - Bordowa
@@ -82,21 +82,21 @@ A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę
 - Biała w prążki
 - Niebieska błyszcząca
 
-### Bluzki (4):
+### Bluzki (4)
 
 - Czarna w gwiazdki
 - Czarno-biała w szlaczki
 - Czarno-biała w kratkę
 - Granatowa bez rękawów
 
-### Żakiety (4):
+### Żakiety (4)
 
 - Kremowy
 - Czarny
 - Niebieski
 - Granatowy
 
-### Byty (6):
+### Byty (6)
 
 - Siwe baleriny
 - Jasne buty na obcasie
@@ -105,7 +105,7 @@ A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę
 - Czarne trampki
 - Buty trekingowe
 
-### Inne (3):
+### Inne (3)
 
 - Mała czarna torebka
 - Czarny kapelusz
