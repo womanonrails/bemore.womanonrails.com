@@ -3,8 +3,8 @@
   padding-bottom: 50px;
 
   .post-header {
-    border-bottom: 1px solid $boder-color;
-    border-top: 1px solid $boder-color;
+    border-bottom: 1px solid $border-color;
+    border-top: 1px solid $border-color;
     font-family: $raleway-fonts;
     letter-spacing: $letter-spacing;
     margin: 40px auto;
@@ -70,7 +70,7 @@
       margin-top: 50px;
 
       li {
-        border-left: 1px solid $boder-color;
+        border-left: 1px solid $border-color;
       }
 
       li:first-child {
@@ -79,7 +79,7 @@
 
       a {
         text-decoration: none;
-        border-bottom: 1px dotted $boder-color;
+        border-bottom: 1px dotted $border-color;
         letter-spacing: $letter-spacing;
         font-family: $raleway-fonts;
         color: $text-color;
