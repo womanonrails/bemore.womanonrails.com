@@ -15,6 +15,20 @@ tech_blog:
   name: Woman on Rails
   url: https://womanonrails.com/pl
 
+gallery:
+  input:
+    path: 'images/instagram/womanonrails'
+  output:
+    path: 'images/instagram/watermarked'
+  thumbnails:
+    path: 'images/instagram/thumbnails'
+    size: '250x250'
+  watermark:
+    color: 'white'
+    font_size: 30
+    opacity: 40
+    text: 'Woman on Rails'
+
 meta:
   title: Be More - jak być lepszym, szczęśliwym człowiekiem
   description: Chcesz być szczęśliwy? Szczęśliwy na własnych warunkach? Tu znajdziesz moje przemyślenia na temat życia.
