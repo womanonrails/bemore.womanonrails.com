@@ -7,7 +7,6 @@ module Reading
   class Generator < Jekyll::Generator
     def generate(site)
       @site = site
-      ensure_folders_exist
       process_images
     end
 
@@ -15,8 +14,57 @@ module Reading
 
     attr_reader :site
 
+    def config
+      site.config['gallery']
+    end
+
+    def input_images_path
+      extensions = config['input']['extensions'] || 'jpg,jpeg,png'
+      "#{site.source}/#{config['input']['path']}/*.{#{extensions}}"
+    end
+
+    def process_images
+      Dir.glob(input_images_path).each do |input_image_path|
+        image_name = File.basename(input_image_path)
+        image_generator.generate(input_image_path, image_name)
+        thumbnail_generator.generate(input_image_path, image_name)
+      end
+    end
+
+    def image_generator
+      @image_generator ||= ImageGenerator.new(site, config['output'])
+    end
+
+    def thumbnail_generator
+      @thumbnail_generator ||= ThumbnailGenerator.new(site, config['thumbnails'])
+    end
+  end
+
+  class ImageGenerator
+    def initialize(site, config)
+      @site = site
+      @config = config
+      ensure_folder_exist
+    end
+
+    def generate(image_path, image_name)
+      output_image_path = File.join(output_images_path, image_name)
+      return if File.exist?(output_image_path)
+
+      image = MiniMagick::Image.open(image_path)
+      add_watermark!(image)
+      image.write(output_image_path)
+      puts "Image generated: #{image_name}"
+    end
+
+    private
+
+    attr_reader :config, :site
+
     def add_watermark!(image)
-      config_watermark = config['watermark']
+      config_watermark = site.config['gallery']['watermark']
+      return unless config_watermark['text']
+
       alpha = (config_watermark['opacity'] || 50).to_f / 100.0
       # _color = config_watermark['color'] || 'white'
       font_size = (config_watermark['font_size'] || 16).to_i
@@ -29,54 +77,42 @@ module Reading
       end
     end
 
-    def config
-      site.config['gallery']
-    end
-
-    def ensure_folders_exist
+    def ensure_folder_exist
       FileUtils.mkdir_p(output_images_path) unless File.directory?(output_images_path)
-      FileUtils.mkdir_p(thumbnails_path) unless File.directory?(thumbnails_path)
     end
 
-    def generate_image(image_path, image_name)
-      output_image_path = File.join(output_images_path, image_name)
-      return if File.exist?(output_image_path)
+    def output_images_path
+      @output_images_path ||= "#{site.source}/#{config['path']}"
+    end
+  end
 
-      image = MiniMagick::Image.open(image_path)
-      add_watermark!(image) if config['watermark']['text']
-      image.write(output_image_path)
-      puts "Image generated: #{image_name}"
+  class ThumbnailGenerator
+    def initialize(site, config)
+      @site = site
+      @config = config
+      ensure_folder_exist
     end
 
-    def generate_thumbnail(image_path, image_name)
+    def generate(image_path, image_name)
       thumbnail_path = File.join(thumbnails_path, image_name)
       return if File.exist?(thumbnail_path)
 
       image = MiniMagick::Image.open(image_path)
-      image.resize(config['thumbnails']['size']) if config['thumbnails']['size']
+      image.resize(config['size']) if config['size']
       image.write(thumbnail_path)
       puts "Thumbnail generated: #{image_name}"
     end
 
-    def input_images_path
-      extensions = config['input']['extensions'] || 'jpg,jpeg,png'
-      "#{site.source}/#{config['input']['path']}/*.{#{extensions}}"
-    end
+    private
 
-    def output_images_path
-      "#{site.source}/#{config['output']['path']}"
-    end
+    attr_reader :config, :site
 
-    def process_images
-      Dir.glob(input_images_path).each do |input_image_path|
-        image_name = File.basename(input_image_path)
-        generate_image(input_image_path, image_name)
-        generate_thumbnail(input_image_path, image_name)
-      end
+    def ensure_folder_exist
+      FileUtils.mkdir_p(thumbnails_path) unless File.directory?(thumbnails_path)
     end
 
     def thumbnails_path
-      "#{site.source}/#{config['thumbnails']['path']}"
+      @thumbnails_path ||= "#{site.source}/#{config['path']}"
     end
   end
 end
