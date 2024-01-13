@@ -7,20 +7,20 @@ module Reading
   class Generator < Jekyll::Generator
     def generate(site)
       @site = site
+      @input_config = InputConfig.new(site)
       process_images
     end
 
     private
 
-    attr_reader :site
+    attr_reader :input_config, :site
 
     def config
       site.config['gallery']
     end
 
     def input_images_path
-      extensions = config['input']['extensions'] || 'jpg,jpeg,png'
-      "#{site.source}/#{config['input']['path']}/*.{#{extensions}}"
+      "#{site.source}/#{input_config.path}/*.{#{input_config.extensions}}"
     end
 
     def process_images
@@ -37,6 +37,22 @@ module Reading
 
     def thumbnail_generator
       @thumbnail_generator ||= ThumbnailGenerator.new(site, config['thumbnails'])
+    end
+  end
+
+  InputConfig = Struct.new(:site) do
+    def extensions
+      config.fetch('extensions') { 'jpg,jpeg,png' }
+    end
+
+    def path
+      config&.dig('path')
+    end
+
+    private
+
+    def config
+      @config ||= site.config.dig('gallery', 'input')
     end
   end
 
