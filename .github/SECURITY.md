@@ -20,7 +20,7 @@ If you encounter any issues, reach out to me directly.
 
 You can send a private message to me via:
 
-- 🐦 [X / former Twitter](https://x.com/womanonrails)
+- 🐦 [X / old Twitter](https://x.com/womanonrails)
 - 📸 [Instagram](https://www.instagram.com/womanonrails/)
 
 ---
