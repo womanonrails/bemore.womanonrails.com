@@ -18,7 +18,6 @@ Za mną dość ciężkie dwa tygodnie w pracy. Przez ten czas wszystko, co stara
 Niestety problem trzeba było rozwiązać. Stawić mu czoła. Koniec i kropka! Na szczęście po wielu godzinach pracy wspólnie z zespołem udało nam się opanować sytuacje. Ulga niesamowita. Przy okazji niech mi ktoś powie za piątek 13-go to pechowy dzień!
 
 <!--break-->
-<br>
 
 Czego się nauczyłam?
 
@@ -32,6 +31,6 @@ Czego się nauczyłam?
 
 5. **To nie ważne, że nie jesteś pierwszy** - W życiu nie chodzi o to by zawsze być pierwszym. Na swojej drodze spotkasz wiele osób, które będą robić rzeczy podobne do Ciebie. Obserwuj, ucz się i staraj się zrobić wszystko jak najlepiej. I pamiętaj każdy z nas jest trochę inny, każdy z nas robi rzeczy w troszkę inny sposób. Jednym będzie odpowiadać to co Ty robisz, innym nie. Zaakceptuj to i rób swoje!
 
-<br>
+---
 
 Myślę, że z tymi moimi przemyśleniami Was zostawię. Jeżeli brakuje Wam motywacji to zerknijcie na [Krok pierwszy](https://www.youtube.com/watch?v=LXM_tGHcuMo) i [Porażki](https://www.youtube.com/watch?v=PyBuKSpwkAU). Polecam! I do zobaczenia następnym razem!
