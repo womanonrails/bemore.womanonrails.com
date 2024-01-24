@@ -27,10 +27,10 @@ Teraz nadchodzi ten moment, że muszę się Wam przyznać do czegoś. W pracy na
 
 Jest taka metoda, która przypomniała mi się gdy analizowałam całą tą sytuacje na spokojnie. Wiecie tak by przynajmniej wyciągnąć z niej jakieś wnioski. Metoda nazywa się **HALT** i po niemiecku znaczy **STOP**. Każda z tych liter reprezentuje jedno angielskie słowo:
 
-  - **H**ungry - głodny
-  - **A**ngry - zły
-  - **L**onely - samotny
-  - **T**ired - zmęczony
+- **H**ungry - głodny
+- **A**ngry - zły
+- **L**onely - samotny
+- **T**ired - zmęczony
 
 Jeżeli, czujesz się głodny, zdenerwowany, samotny lub zmęczony to czas by się zatrzymać. Czas by zjeść coś dobrego, rozładować złość, zadzwonić do przyjaciela lub po prostu się zdrzemnąć. Po takiej przerwie będziemy bardziej efektywnymi i kreatywnymi. Po prostu będziemy bardziej szczęśliwi.
 
