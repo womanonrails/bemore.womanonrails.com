@@ -27,14 +27,12 @@ Nareszcie mój mózg mógł przetworzyć to wszystko, co się w nim kotłowało.
 
 Czego mnie nauczyły moje problemy?
 
-<ul>
-  <li>Nie jesteś robotem, nie dasz rady ogarnąć wszystkiego sama.</li>
-  <li>Musisz mieć czas na odpoczynek.</li>
-  <li>By móc pomagać innym najpierw musisz sama być w dobrej formie.</li>
-  <li>Skup się na celu, nie na czasie, jaki jego realizacja zajmuje (minuty polecą szybciej a i satysfakcja będzie większa).</li>
-  <li>Nie spiesz się, pośpiech zwiększa ilość stresu, no i zmniejsza dokładność wykonywanych czynności.</li>
-  <li>Odpręż się, jeżeli nie dasz rady wszystkiego zrobić dziś zarezerwuj sobie czas jutro (może gdy jutro przyjdzie zadanie, które chciałaś zrobić nie będzie już potrzebne).</li>
-  <li>Skup się na tym co teraz, tylko na to masz wpływ.</li>
-</ul>
+- Nie jesteś robotem, nie dasz rady ogarnąć wszystkiego sama.
+- Musisz mieć czas na odpoczynek.
+- By móc pomagać innym najpierw musisz sama być w dobrej formie.
+- Skup się na celu, nie na czasie, jaki jego realizacja zajmuje (minuty polecą szybciej a i satysfakcja będzie większa).
+- Nie spiesz się, pośpiech zwiększa ilość stresu, no i zmniejsza dokładność wykonywanych czynności.
+- Odpręż się, jeżeli nie dasz rady wszystkiego zrobić dziś zarezerwuj sobie czas jutro (może gdy jutro przyjdzie zadanie, które chciałaś zrobić nie będzie już potrzebne).
+- Skup się na tym co teraz, tylko na to masz wpływ.
 
 To na dziś tyle. A czego Wasze problemy Was nauczyły? Zastanówcie się co dobrego z nich wynikło? Trzymajcie się i do następnego razu ;)
