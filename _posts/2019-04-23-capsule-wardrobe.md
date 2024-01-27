@@ -13,15 +13,76 @@ tags: [minimalizm, porządki]
 comments: true
 ---
 
-W pewnym sensie jestem szalona. Uwielbiam, gdy wszystko jest poukładane na swoim miejscu i gdy nie ma tego za dużo. Im więcej rzeczy, tym więcej trzeba poświęcać im czasu. Czasu na czyszczenie, układanie, sprzątanie. Łatwiej o chaos w domu. Co przekłada się na gorszy nastrój, zmęczenie i brak chęci do czegokolwiek. A przecież zamiast poświęcać czas na obowiązki, za którymi nie przepadamy (w moim przypadku jest to na przykład prasowanie) lepiej spędzić go z bliskimi lub na czynnościach, które naprawdę lubimy. Dlatego też tak bardzo podoba mi się idea minimalizmu. Koncepcja mówiąca o posiadaniu tylko tych rzeczy, które są nam bliskie i których naprawdę używamy. Stop z bibelotami i kurzołapami na meblach! Przynajmniej w moim przypadku. ;]
+W pewnym sensie jestem szalona.
+Uwielbiam, gdy wszystko jest poukładane na swoim miejscu i gdy nie ma tego za dużo.
+Im więcej rzeczy, tym więcej trzeba poświęcać im czasu.
+Czasu na czyszczenie, układanie, sprzątanie.
+Łatwiej o chaos w domu.
+Co przekłada się na gorszy nastrój, zmęczenie i brak chęci do czegokolwiek.
+A przecież zamiast poświęcać czas na obowiązki, za którymi nie przepadamy
+(w moim przypadku jest to na przykład prasowanie)
+lepiej spędzić go z bliskimi lub na czynnościach, które naprawdę lubimy.
+Dlatego też tak bardzo podoba mi się idea minimalizmu.
+Koncepcja mówiąca o posiadaniu tylko tych rzeczy,
+które są nam bliskie i których naprawdę używamy.
+Stop z bibelotami i kurzołapami na meblach!
+Przynajmniej w moim przypadku. ;]
 
 <!--break-->
 
-Podobnie sprawa wygląda jeżeli chodzi o moją szafę. Kiedyś pękała ona w szwach. Posiadałam mnóstwo ubrań. W większości z nich nie chodziłam. Z różnych względów mi nie pasowały. Źle się w nich czułam, a na dodatek miałam wyrzuty sumienia, gdy chcialam pozbyć się ich z mojego życia. Otwierałam szafę i nie miałam, co na siebie włożyć. Koniec końców ciągle chodziłam w tym samym.
+Podobnie sprawa wygląda jeżeli chodzi o moją szafę.
+Kiedyś pękała ona w szwach.
+Posiadałam mnóstwo ubrań.
+W większości z nich nie chodziłam.
+Z różnych względów mi nie pasowały.
+Źle się w nich czułam, a na dodatek miałam wyrzuty sumienia,
+gdy chcialam pozbyć się ich z mojego życia.
+Otwierałam szafę i nie miałam, co na siebie włożyć.
+Koniec końców ciągle chodziłam w tym samym.
 
-Gdy przeprowadzałam się na moje nowe mieszkanie, ubrań było stanowczo za dużo. Moja przyszywana siostra, tak o Tobie mowa Olu, poradziła mi bym zainteresowała się tematem **capsule wardrobe**. Czyli takiej garderoby w pigułce. Zaczęłam szukać czegoś na ten temat. To było dobrych kilka lat temu, więc informacji nie było za dużo, zwłaszcza w polskiej części Internetu. W tych moich poszukiwaniach trafiłam na kanał na YouTube, który nazywał się "Light by Coco". Kanał ten już nie istnieje, ale dalej uważam, że był to najlepszy kanał na temat minimalizmu, jaki udało mi się do tej pory znaleźć. Coco, czyli autorka tego kanału, pokazywała, jak ona tworzy swoją garderobę w pigułce i jak można do tego zadania podejść w sposób kreatywny. To u niej na kanale usłyszałam po raz pierwszy o **Projekcie 333**. Tak trafiłam na <a href="https://bemorewithless.com/" title="Be more with less - blog o minimaliźmie" target="_blank" rel="nofollow noopener noreferrer">bloga Courtney</a>, która jest pomysłodawczynią tego projektu. Projekt 333 polega na tym, że wybierasz 33 rzeczy, które będziesz nosić przez najbliższe 3 miesiące. Resztę ubrań chowasz. Przykładowo, gdy jest lato nie zostawiamy na wierzchu swoich zimowych swetrów, lecz na czas lata usuwamy je z pola widzenia. Część osób do tych 33 rzeczy wlicza także buty czy biżuterię. To zależy od Ciebie. I tak naprawdę nie chodzi to, by mieć tych rzeczy dokładnie 33. Ja pomimo tego, że stosuję to podejście już od kilku lat, to mam więcej ubrań na sezon. Nie zniechęca mnie to do całej idei. Jeżeli interesuje Cię więcej informacji na temat zasad dotyczących projektu 333 to odsyłam do <a href="https://bemorewithless.com/project-333/" title="Projekt 333" target="_blank" rel="nofollow noopener noreferrer">strony Courtney</a>.
+Gdy przeprowadzałam się na moje nowe mieszkanie, ubrań było stanowczo za dużo.
+Moja przyszywana siostra, tak o Tobie mowa Olu,
+poradziła mi bym zainteresowała się tematem **capsule wardrobe**.
+Czyli takiej garderoby w pigułce.
+Zaczęłam szukać czegoś na ten temat.
+To było dobrych kilka lat temu,
+więc informacji nie było za dużo, zwłaszcza w polskiej części Internetu.
+W tych moich poszukiwaniach trafiłam na kanał na YouTube,
+który nazywał się "Light by Coco".
+Kanał ten już nie istnieje, ale dalej uważam,
+że był to najlepszy kanał na temat minimalizmu,
+jaki udało mi się do tej pory znaleźć.
+Coco, czyli autorka tego kanału, pokazywała,
+jak ona tworzy swoją garderobę w pigułce
+i jak można do tego zadania podejść w sposób kreatywny.
+To u niej na kanale usłyszałam po raz pierwszy o **Projekcie 333**.
+Tak trafiłam na
+[bloga Courtney](https://bemorewithless.com/ "Be more with less - blog o minimaliźmie"),
+która jest pomysłodawczynią tego projektu.
+Projekt 333 polega na tym, że wybierasz 33 rzeczy,
+które będziesz nosić przez najbliższe 3 miesiące.
+Resztę ubrań chowasz.
+Przykładowo, gdy jest lato nie zostawiamy na wierzchu swoich zimowych swetrów,
+lecz na czas lata usuwamy je z pola widzenia.
+Część osób do tych 33 rzeczy wlicza także buty czy biżuterię.
+To zależy od Ciebie.
+I tak naprawdę nie chodzi to, by mieć tych rzeczy dokładnie 33.
+Ja pomimo tego, że stosuję to podejście już od kilku lat,
+to mam więcej ubrań na sezon.
+Nie zniechęca mnie to do całej idei.
+Jeżeli interesuje Cię więcej informacji na temat zasad dotyczących projektu 333
+to odsyłam do
+[strony Courtney](https://bemorewithless.com/project-333/ "Projekt 333").
 
-A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę do sedna, chciałabym dodać jeszcze jedną rzecz. W oryginalnym projekcie 333, ubrania wymienia się raz na 3 miesiące, czyli na jedną porę roku. Ponieważ moja garderoba nie zmienia się tak drastycznie między sezonami, to przygotowuje swoją szafę dwa razy w roku. Raz na miesiące ciepłe, czyli wiosna-lato, a raz na miesiące zimne, czyli jesień-zima. Oto jak wygląda moja szafa w sezonie wiosenno-letnim.
+A teraz czas na pokazanie, co znajduje się w moje szafie.
+Zanim jednak przejdę do sedna, chciałabym dodać jeszcze jedną rzecz.
+W oryginalnym projekcie 333, ubrania wymienia się raz na 3 miesiące,
+czyli na jedną porę roku.
+Ponieważ moja garderoba nie zmienia się tak drastycznie między sezonami,
+to przygotowuje swoją szafę dwa razy w roku.
+Raz na miesiące ciepłe, czyli wiosna-lato,
+a raz na miesiące zimne, czyli jesień-zima.
+Oto jak wygląda moja szafa w sezonie wiosenno-letnim.
 
 ### Nakrycia wyjściowe (4)
 
@@ -111,9 +172,16 @@ A teraz czas na pokazanie, co znajduje się w moje szafie. Zanim jednak przejdę
 - Czarny kapelusz
 - Czapka z daszkiem
 
-W sumie 52 elementy wliczając buty, czapki i chusty. Jeżeli interesuje Cię bardziej szczegółowy przegląd tego, co znajduje się w mojej szafie, zerknij na film, który dla Ciebie przygotowałam.
-
-<br>
+W sumie 52 elementy wliczając buty, czapki i chusty.
+Jeżeli interesuje Cię bardziej szczegółowy przegląd tego,
+co znajduje się w mojej szafie, zerknij na film,
+który dla Ciebie przygotowałam.
 
 <!-- markdownlint-disable-next-line MD033 -->
-<iframe width="1030" height="620" src="https://www.youtube.com/embed/g26ZNhmYli0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+  width="1030"
+  height="620"
+  src="https://www.youtube.com/embed/g26ZNhmYli0"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
