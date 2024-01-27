@@ -115,4 +115,5 @@ W sumie 52 elementy wliczając buty, czapki i chusty. Jeżeli interesuje Cię ba
 
 <br>
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="1030" height="620" src="https://www.youtube.com/embed/g26ZNhmYli0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
