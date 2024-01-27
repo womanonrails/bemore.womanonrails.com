@@ -52,6 +52,15 @@
       padding-right: 15px;
       text-align: right;
 
+      li {
+        font-size: 14px;
+      }
+
+      ul {
+        list-style-type: '— ';
+        float: right;
+      }
+
       p {
         color: $dark-text-color;
         font-weight: 700;
