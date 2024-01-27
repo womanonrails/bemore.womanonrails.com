@@ -23,7 +23,7 @@ Pierwszy krok to uświadomienie sobie problemu. Ja zauważam go za każdym razem
 
 Dziś chciałabym pokazać Ci mój sposób na uporządkowanie własnego czasu, tak by można było go planować po swojemu, nawet jeżeli oznacza to zrobienie miejsca dla leniuchowania. Zasada jest bardzo prosta:
 
-<blockquote class='blockquote-reverse'>
+<blockquote>
   <p>If you want more time, feedom and energy, start saying no.</p>
   <footer><em>Courtney Carver - Be more with less</em></footer>
 </blockquote>

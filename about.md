@@ -19,7 +19,7 @@ Nie jestem w stanie przeżyć życia za Was, mogę natomiast podzielić się moi
 
 <br>
 
-<blockquote class='blockquote-reverse'>
+<blockquote>
   <p>Życie to nie suma oddechów. Życie to suma momentów, kiedy zapiera ci dech w piersiach.</p>
   <footer><em>Regina Brett - Bóg zawsze znajdzie Ci pracę.</em></footer>
 </blockquote>
