@@ -44,8 +44,13 @@
     text-align: justify;
 
     blockquote {
-      @extend .blockquote-reverse !optional;
       margin-bottom: 60px;
+
+      border-left: 0;
+      border-right: 5px solid #eee;
+      padding-left: 0;
+      padding-right: 15px;
+      text-align: right;
 
       p {
         color: $dark-text-color;
