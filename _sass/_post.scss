@@ -44,6 +44,7 @@
     text-align: justify;
 
     blockquote {
+      @extend .blockquote-reverse;
       margin-bottom: 60px;
 
       p {
