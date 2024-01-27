@@ -17,4 +17,5 @@ Pisałam już o tym jak przygotowuje się do nadchodzącego nowego roku. Co robi
 
 <!--break-->
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="1030" height="620" src="https://www.youtube.com/embed/Dv-bUBzeTX4" frameborder="0" allowfullscreen></iframe>
