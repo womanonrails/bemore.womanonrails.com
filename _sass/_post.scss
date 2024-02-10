@@ -100,6 +100,14 @@
       border-top: 1px solid #ccc;
     }
 
+    hr + h2 {
+      font-family: $raleway-fonts;
+      font-size: 24px;
+      letter-spacing: 5px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
     .tags {
       margin-top: 50px;
 
