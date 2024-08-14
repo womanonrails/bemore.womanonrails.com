@@ -27,7 +27,7 @@ comments: true
 - Nie powinnam później po wymuszeniu na mnie odpowiedzi zmagać się ze słowami współczucia czy litości. Z płytkim zrozumieniem lub jego całkowitym brakiem.
 - Nie powinnam zmagać się z natarczywym przymuszaniem mnie do tego, by jednak się napić.
 - Bo jeśli nie piję, to coś jest ze mną nie tak.
-- Nie powinnam szukać w internecie odpowiedzi na pytanie, co zrobić w takiej sytuacji, by ludzie dali mi spokój.
+- Nie powinnam szukać w Internecie odpowiedzi na pytanie, co zrobić w takiej sytuacji, by ludzie dali mi spokój.
 
 <!--break-->
 
@@ -36,7 +36,7 @@ comments: true
 </div>
 
 - Nie powinnam przejmować się tym, co mam na sobie danego dnia lub jak wygląda moja twarz w danym momencie.
-- Bo zaraz znajdzie się ktoś, kto w sali pełnej ludzi stwierdzi, że warto mi głośno powiedzieć, że akurat teraz mam pryszcza na brodzie. — Dziwne, może ta osoba myśli, że nie mam lustra w domu i że to jest _troska w najczystszej postaci_.
+- Bo zaraz znajdzie się ktoś, kto na sali pełnej ludzi stwierdzi, że warto mi głośno powiedzieć, że akurat teraz mam pryszcza na brodzie. — Dziwne, może ta osoba myśli, że nie mam lustra w domu i że to jest _troska w najczystszej postaci_.
 - Nie powinnam martwić się swoją wagą, chować się za ubraniami w odpowiednich kolorach i wzorach, bo akurat ktoś chce powiedzieć mi: _"Powinnaś chyba zamykać lodówkę na klucz, bo jeszcze trochę i nie zmieścisz się w drzwiach"_ albo _"Wyglądasz jak dziecko z Oświęcimia"_. A później udawać, że to żart i wmawiać mi, że nie znam się na żartach.
 - Nie powinnam czuć potrzeby wciągania brzucha po jedzeniu lub używania bielizny wyszczuplającej, bo ktoś kolejny raz zapyta się o tę cholerną ciążę i nie uwierzy, że po jedzeniu mam większy brzuch niż przed nim. I będę zmuszona kilkukrotnie powtarzać to piekielne zdanie: "Nie, nie jestem w ciąży."
 
@@ -46,7 +46,7 @@ comments: true
 
 - Nie powinnam bać się życzeń urodzinowych czy świątecznych i oczekiwać w napięciu, co zostanie wypowiedziane. Bo może babcia lub wujek życzą mi _"dzidziusia"_, nie mając pojęcia, czy ja go w ogóle pragnę. A może nie mogę go mieć?
 - Nie powinnam czuć potrzeby ignorowania kartek okolicznościowych, bo przecież nikt nie napisze na kartce z życzeniami, że dał na mszę w intencji mojego nawrócenia, urodzenia dziecka lub innej totalnie odjechanej sprawy.
-- Nie powinnam bać się północy w Sylwestra, bo przecież nie usłyszę od każdego gościa tych samych życzeń znalezienia sobie drugiej połówki i ułożenia sobie życia. — To moje życie nie jest ułożone? No cóż, studiuję, pracuję, ogarniam sprawy, mam plany na przyszłość, tylko nie te _"właściwe"_, jak _"normalni"_ ludzie. Ano, zapomniałabym jeszcze o jednym. Drugą połówkę? To ja teraz nie jestem całością? Jakaś zepsuta chyba, wymagająca naprawy, bo brak mi jakichś części, które są w tej drugiej połowie, której akurat nie mam.
+- Nie powinnam bać się północy w Sylwestra, bo przecież nie usłyszę od każdego gościa tych samych życzeń znalezienia sobie drugiej połówki i ułożenia sobie życia. — To moje życie nie jest ułożone? No cóż, studiuję, pracuję, ogarniam sprawy, mam plany na przyszłość, tylko nie te _"właściwe"_, jak _"normalni"_ ludzie. Ano, zapomniałabym jeszcze o jednym. Drugą połówkę? To ja teraz nie jestem całością? Jakaś zepsuta, wymagająca naprawy, bo brak mi jakichś części, które są w tej drugiej połowie, której akurat nie mam.
 - Nie powinnam stresować się pójściem na wesele znajomego bez osoby towarzyszącej.
 - Nie powinnam czuć się tam jak odludek, dla którego ma się tylko politowanie i patrzy się na niego jak na dziobaka w zoo. No, bo przecież to nie jest normalne, że _"w moim wieku"_ nie ma się stałego partnera, a wszyscy inni założyli już rodziny. Szkoda tylko, że część tych _"sakramentalnych związków małżeńskich"_ nie dotrwało nawet do piątej rocznicy ślubu.
 
@@ -69,13 +69,13 @@ Nie powinnam tego wszystkiego, ale jednak...
 </div>
 
 To nie jest artykuł o przymuszaniu do pica alkoholu, parciu na spełnienie _"kobiecego obowiązku"_ czy dostosowania się do jakiś norm.
-To jest artykuł o ogromnej ilości **lęku i napięcia, poczuciu beznadziei** oraz **kończących się pokładach wyrozumiałości** wobec tych wszystkich osób, które nie przyjmują do wiadomości, że mogę być inna niż oni i ich standardy. O frustracji związanej z tym, jak bardzo słowa, wymuszanie jakiegoś wyimaginowanego _"standardu"_ mogą przynieść smuteku, cierpienia i złości.
+To jest artykuł o ogromnej ilości **lęku i napięcia, poczuciu beznadziei** oraz **kończących się pokładach wyrozumiałości** wobec tych wszystkich osób, które nie przyjmują do wiadomości, że mogę być inna niż oni i ich standardy. O frustracji związanej z tym, jak bardzo słowa, wymuszanie jakiegoś wyimaginowanego _"standardu"_ mogą przynieść smutku, cierpienia i złości.
 
 Zanim następnym razem coś powiesz, zatrzymaj się.
 Zatrzymaj się i zastanów, po co chcesz to powiedzieć.
 Czy to kogoś zrani?
-Czy przypadkiem nie jest to bardziej o tobie niż o tej drugiej stronie?
+Czy przypadkiem nie jest to bardziej o Tobie niż o tej drugiej stronie?
 Zatrzymaj się i może lepiej zamilknij.
 Wytrzymaj niezręczną ciszę, nie obśmiewaj jej, nie zmieniaj tematu, wyciągnij rękę i okaż ciepło, przytul, po prostu bądź.
-Nie wszyscy są i nie wszyscy będą tacy jak ty.
+Nie wszyscy są i nie wszyscy będą tacy jak Ty.
 Zaakceptuj to.
