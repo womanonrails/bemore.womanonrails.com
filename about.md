@@ -5,27 +5,16 @@ title: Parę słów o tym kim jestem i co robię
 permalink: /about/
 ---
 
-<div class='post-image'>
+<div class='post-image no-margin'>
   <div class='image'>
     <img src="/images/about.jpg" alt="about">
   </div>
 </div>
 
-Jestem dość młoda. Tak przynajmniej mi się wydaje. Ciągle uwielbiam się uczyć i rozwijać. To sprawia mi niesamowitą radość. Poznawanie siebie, rozumienie innych, odkrywanie ciekawych miejsc, nowego spojrzenia na życie. Jest tak wiele interesujących tematów, czasu natomiast mamy tak mało.
+Choć zbliżam się do czwartego dziesięciolecia mojego życia, wciąż czuję się młoda. Czasami, zagłębiając się w siebie, spotykam te same emocje, które towarzyszyły mi jako dziecku – te, które przez lata były ukryte i nieprzepracowane. Teraz nadszedł moment, w którym wychodzą na światło dzienne, a ja muszę się z nimi zmierzyć.
 
-Każdy z nas uczy się życia w inny sposób. Ma inne doświadczenia, problemy. Inaczej rozumie świat. **Be more** to moje spojrzenie na życie. Moje przemyślenia i spostrzeżenia. To mój sposób na szczęście.
+Jeszcze niedawno wydawało mi się, że kiedy dostatecznie się rozwinę, nabiorę doświadczenia, to wreszcie będę mogła po prostu być – pełnoprawnym człowiekiem. Nie chcę przez to powiedzieć, że przestałam lubić rozwój czy naukę, ale zrozumiałam, że bez akceptacji i głębszego zrozumienia siebie, ten rozwój nie ma większego sensu.
 
-Nie jestem w stanie przeżyć życia za Was, mogę natomiast podzielić się moim doświadczeniem. To miejsce jest pewnego rodzaju przestrzenią, motywatorem dla mnie do dalszego rozwoju. Może także dla Was?
+Przez pewien czas traktowałam **Be more** jako przestrzeń, gdzie z pozycji _"mentora"_ będę pokazywać Wam, jak żyć dobrze i szczęśliwie. Dziś wiem, że nie mam recepty na szczęście, i sama często borykam się z jego brakiem. To miejsce stało się dla mnie czymś więcej – dziennikiem podróży osoby, która nie była do niej przygotowana. Kiedy zdała sobie sprawę, że została wypchnięta z bezpiecznej przystani bez odpowiedniego ekwipunku, zaczęła szukać go na szlaku. I wciąż szuka...
 
-<br>
-
-<blockquote>
-  <p>Życie to nie suma oddechów. Życie to suma momentów, kiedy zapiera ci dech w piersiach.</p>
-  <footer><em>Regina Brett - Bóg zawsze znajdzie Ci pracę.</em></footer>
-</blockquote>
-
-**Be more** jest o takich momentach. O momentach, gdy wszystko staje się jasne, gdy zjawia się w życiu radość z drobnych rzeczy. Gdy chce się po prostu żyć!
-
-<br>
-
-Zapraszam do czytania!
+Zapraszam Was do wspólnej wędrówki. Może razem znajdziemy to, czego szukamy?
