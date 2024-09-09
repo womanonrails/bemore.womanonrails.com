@@ -1,24 +1,24 @@
 ---
 layout: post
 title: Jak prowadzić dom, kiedy toniesz?
-headline: Prace domowe są moralnie neutralne
+headline: Moralnie neutralne
 description: Często czujemy presję posiadania idealnego porządku, ale o dziwo bałagan to nie koniec świata! Dziś o prostych sposobach na ogarnięcie przestrzeni bez stresu.
 excerpt: Bałagan w domu nie definiuje tego, kim jesteś. Porozmawiajmy chwilę o sprzątaniu małymi krokami, bez presji i z wyrozumiałością dla siebie.
 quote: Nie czeka nas pod koniec życia żaden medal za spełnianie oczekiwań innych.
 quote_author: Joanna Glogaza
 
-image: ..
-image_alt: ..
-image_title: ..
-tags: [życie, szczęście, wymagania, porządki, przepracowanie, problemy, depresja, zdrowie, organizacja, przetrwanie]
+image: housework.jpg
+image_alt: Kaczki pływające po jeziorze
+image_title: Proste sposoby na ogarnięcie przestrzeni bez stresu
+tags: [życie, porządki, depresja, zdrowie, organizacja]
 comments: true
 ---
 
-Skończyłam czytać książkę "Jak prowadzić dom, kiedy toniesz?". Nie jest to książka, która trafi na moją listę wszech czasów, ale to nie znaczy, że nie znalazłam w niej wartościowych myśli i praktycznych wskazówek. Kilka z nich to prawdziwe perełki, które mogą pomóc w trudniejszych chwilach w ogóle egzystować. Oto te, które najbardziej zapadły mi w pamięć:
+Skończyłam czytać książkę _"Jak prowadzić dom, kiedy toniesz?"_. Nie jest to książka, która trafi na moją listę wszech czasów, ale to nie znaczy, że nie znalazłam w niej wartościowych myśli i praktycznych wskazówek. Kilka z nich to prawdziwe perełki, które mogą pomóc w trudniejszych chwilach w ogóle egzystować. Oto te, które najbardziej zapadły mi w pamięć:
 
 1. **Prace domowe są moralnie neutralne** - To, jak radzisz sobie z obowiązkami domowymi, nie świadczy o tym, czy jesteś dobrą osobą, partnerką_em, rodzicem czy przyjaciółką_elem. Nie ponosisz porażki, jeśli nie nadążasz z praniem – pranie jest neutralne moralnie.
 
-Kiedy przeczytałam te słowa, nie mogłam w to uwierzyć. Nie mieściło mi się w głowie, że od tego, czy mam czysto w mieszkaniu, świat się nie zawali, a co ważniejsze – nie ma to wpływu na to, jaką jestem osobą. Ufff... Głęboki oddech i ogromna ulga. Nadal czasem trudno mi w to uwierzyć, zwłaszcza po latach, kiedy byłam oceniana właśnie przez ten pryzmat, ale bardzo chcę, żeby to było prawdą.
+    Kiedy przeczytałam te słowa, nie mogłam w to uwierzyć. Nie mieściło mi się w głowie, że od tego, czy mam czysto w mieszkaniu, świat się nie zawali, a co ważniejsze – nie ma to wpływu na to, jaką jestem osobą. Ufff... Głęboki oddech i ogromna ulga. Nadal czasem trudno mi w to uwierzyć, zwłaszcza po latach, kiedy byłam oceniana właśnie przez ten pryzmat, ale bardzo chcę, żeby to było prawdą.
 
 2. **Bałagan nie ma większego znaczenia** - To bezpośrednio wynika z poprzedniego punktu, ale warto się nad tym na chwilę zatrzymać. Wyjątkiem od tej reguły jest sytuacja, gdy bałagan wpływa na nasze zdrowie lub bezpieczeństwo – pleśń, nieproszone żyjątka czy alergeny to moment, w którym warto interweniować. W innych przypadkach bałagan nie świadczy o naszym lenistwie ani o tym, jakimi jesteśmy ludźmi. Jeśli to pomaga, można używać bardziej neutralnych określeń – zamiast _"obowiązki domowe"_ mówić _"prace domowe"_, zamiast _"sprzątanie"_ to _"przywracanie porządku"_, czy zamiast _"bałagan"_ – _"przestrzeń, która zakończyła cykl funkcjonalności"_. Osobiście uważam, że ma to swój urok.
 
@@ -67,10 +67,3 @@ Załóżmy, że przyjmowanie lekarstw ma duży wpływ na nasze samopoczucie, ale
 **Rytm w codzienności**
 
 Jeśli chodzi o rytm, to mnie pomaga aplikacja "Przypomnienia" na telefonie (domyślna aplikacja iPhone'a). Mogę w niej ustawić, jak często mają się pojawiać cykliczne zadania, a kiedy nadejdzie odpowiedni moment, sama mi o nich przypomina. Na przykład, co 3 dni podlewam kwiaty. Czasem zdarza się, że czuję się zbyt źle, żeby to zrobić, więc próbuję następnego dnia albo czekam na kolejne przypomnienie. Czasem podleję wszystkie rośliny, a innym razem tylko część. Jak dotąd moje kwiaty nie skarżyły się na ten system – rosną z entuzjazmem, którego mój mąż nie podziela. Może to po prostu roślinni komandosi, którzy przetrwają w każdych warunkach. Nie mnie to oceniać, ważne, że mogę cieszyć się ich obecnością.
-
-
-TODO:
-- Zdjęcie woda
-- jakieś zakończeni
-- naprawić punkty w artykule
-- zostawić tą linie
