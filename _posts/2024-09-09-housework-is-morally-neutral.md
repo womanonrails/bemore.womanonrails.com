@@ -16,6 +16,8 @@ comments: true
 
 Skończyłam czytać książkę _"Jak prowadzić dom, kiedy toniesz?"_. Nie jest to książka, która trafi na moją listę wszech czasów, ale to nie znaczy, że nie znalazłam w niej wartościowych myśli i praktycznych wskazówek. Kilka z nich to prawdziwe perełki, które mogą pomóc w trudniejszych chwilach w ogóle egzystować. Oto te, które najbardziej zapadły mi w pamięć:
 
+<!--break-->
+
 1. **Prace domowe są moralnie neutralne** - To, jak radzisz sobie z obowiązkami domowymi, nie świadczy o tym, czy jesteś dobrą osobą, partnerką_em, rodzicem czy przyjaciółką_elem. Nie ponosisz porażki, jeśli nie nadążasz z praniem – pranie jest neutralne moralnie.
 
     Kiedy przeczytałam te słowa, nie mogłam w to uwierzyć. Nie mieściło mi się w głowie, że od tego, czy mam czysto w mieszkaniu, świat się nie zawali, a co ważniejsze – nie ma to wpływu na to, jaką jestem osobą. Ufff... Głęboki oddech i ogromna ulga. Nadal czasem trudno mi w to uwierzyć, zwłaszcza po latach, kiedy byłam oceniana właśnie przez ten pryzmat, ale bardzo chcę, żeby to było prawdą.

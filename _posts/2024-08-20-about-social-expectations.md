@@ -18,6 +18,8 @@ Spędziłam dziś cały dzień nad wodą pobliskiego jeziora. Wybrałam zacienio
 
 Niedaleko mnie siedziała rodzina. Cztery osoby z chęcią wskoczyły do wody, ale piąta wolała zostać na brzegu i rozwiązywać krzyżówki. Niestety, reszta grupy nie dawała jej spokoju. Jak długo można kogoś namawiać do wejścia do wody? Prośby, głośniejsze prośby, krzyki z wody, a nawet groźby, że zostanie wrzucona siłą nie miały końca.
 
+<!--break-->
+
 Kiedy ludzie w końcu zrozumieją, że każdy ma prawo spędzać swój czas wolny jak chce? To, co dla jednej osoby jest przyjemne, dla drugiej może być niekomfortowe. A przecież mówimy tu tylko o kąpieli w jeziorze! Co w sytuacjach, gdy ktoś ma oczekiwania względem innych, dotyczące studiów, partnera, dzieci, wiary, poglądów czy tożsamości? Kiedy nauczymy się akceptować wybory innych? To pytanie wciąż pozostaje bez odpowiedzi. A szkoda, bo moglibyśmy wtedy się wyluzować i pozwolić sobie oraz innym być sobą.
 
 Ta sytuacja nad jeziorem skłoniła mnie do refleksji. Zastanawiałam się, o co tu tak naprawdę chodzi. Myślę, że jest w tym jakaś chęć kontroli innych. Trochę jak w świecie Wielkiego Brata z powieści George’a Orwella, gdzie każda _„inność”_ musi zostać zduszona w zarodku, bo jest niebezpieczna. A może to brak zaufania? Traktowanie drugiej osoby jak dziecka, które trzeba prowadzić za rękę, zapominając, że mamy do czynienia z dorosłą osobą, odpowiedzialną za swoje decyzje.
