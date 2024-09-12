@@ -4,13 +4,13 @@ title: Mistrzyni Świata Spokoju
 headline: Mistrzyni Świata
 description: Często słyszymy, że trzeba się rozwijać, przekraczać granice, wychodzić ze strefy komfortu. Ale ja mam zupełnie inne marzenie – chcę być mistrzynią świata w... odpoczywaniu.
 excerpt: Po 40-tce zamieniam się w mistrzynię świata we własnym komforcie.
-quote: ..
-quote_author: ..
+quote: "Zrozumiałam ten najbardziej banalny banał świata: koniec końców wygrywa nie ten, kto więcej osiągnął / kto zrobił na kimś lepsze wrażenie / więcej zarobił / wyjechał dalej / kupił lepsze rzeczy, a ten, kto czuje się szczęśliwy i spełniony tym, co robi, co posiada, kim się otacza. Niezależnie, jak bardzo lub jak mało imponujące to jest. Bo na co dzień właśnie on odczuwa te wszystkie uczucia - szczęście, spełnienie, satysfakcję - na które Ci pierwsi próbują zasłużyć i zapracować."
+quote_author: Nieznany
 
-image: ..
-image_alt: ..
-image_title: ..
-tags: [życie, depresja, zdrowie]
+image: world-champion.jpg
+image_alt: Oświetlone drzewo na scenie teatru
+image_title: Postanowienie nie noworoczne - mistrzyni świata w komforcie i spokoju
+tags: [życie, slow life, szczęście]
 comments: true
 ---
 
@@ -20,11 +20,3 @@ Teraz chcę czuć się bezpiecznie w swoim domu. Chcę wieczorem spokojnie obejr
 
 Plan ten będzie trudno zrealizować, bo jest we mnie taka cząstka, która chce imponować, spełniać oczekiwania, być najlepsza, zasłużyć na miłość i uznanie. Ale chcę jej powiedzieć, że dziś i jutro może wziąć wolne. Pojechać na wakacje. Dziś i jutro odpoczywamy i robimy cholernie nudne rzeczy. W końcu możemy się tak nie starać, nie skończyć remontu, który _"miał być na wczoraj"_, nawet za rok czy dwa, nie być guru programowania i nie znać odpowiedzi na pytanie _"jak żyć"_. Możemy po prostu być – ja i moja cząstka szukająca uznania. A jeśli ktoś zapyta mnie, co osiągnęłam przez ostatni rok, z dumą odpowiem: komfort życia. To będzie moja wygrana.
 
-
-TODO
-----
-- ogarnąć tagi
-- ogranąc opisy
-- znaleść zdjęcie
-- post na insta
-- ogarnąc jakiś cytat
