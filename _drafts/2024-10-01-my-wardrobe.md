@@ -56,6 +56,7 @@ Wnioski:
 - zaczełam się zastanawiać czy naprawdę tyle potrzebuje i czy to jest minimalistyczne lub dążące do tego
 - chciałabym z czesem zmniejszać ilość rzeczy w mojej szafie i zostawiać tylke te najbardziej ulubione rzeczy
 - zaczełam próbować nowych rzeczy
+- misja by korzystać z tego co już mamy i zatrzymać konsumpcjoniżm
 
 
 Co wyciągnełam z tego jako testerka:
@@ -71,3 +72,8 @@ Co wyciągnełam z tego jako testerka:
 - szybka reakcja na błędy (nie chodzi o ich naprawienie ale o reakcje że tak zanotowaliśmy)
 - dbanie o to by cały proces klient był zadbany od dodawania elementów do aplikacji, do szukania swojego stylu i do pomocy w tworzeniu zestawów, nawet w sprawie jakiegoś zarządzania i pracy nad swoją garderobą
 - **Napisać do nich że chce taki artykół stworzyć i zadać im interesujące pytania**
+- zobaczyć jeszcze raz filmik z QA
+- ogarnąć coś o dobrym procesie dostarczania oprogramowania 
+- czy korzystają z agile czy to jest raczej intuicyjne?
+- kto pracuje nad tym projektem i za co odpowiada
+- https://www.myindyx.com/
