@@ -1,68 +1,72 @@
 ---
 layout: post
-title: ..
-headline: ..
-description: ..
-excerpt: ..
-quote: ..
-quote_author: ..
+title: Jak aplikacja Indyx pomogła mi ujarzmić garderobę?
+headline: Praktyczne Zarządzanie Szafą
+description: Na początku roku zdigitalizowałam swoją szafę i teraz mam ją zawsze na wyciągnięcie ręki. Zobacz, jak to zrobiłam!
+excerpt: Zdigitalizowałam szafę i zarządzanie nią teraz to czysta przyjemność.
+quote: You don't need more clothes, you need more ideas.
+quote_author: Nieznany
 
 image: ..
 image_alt: ..
 image_title: ..
-tags: [życie]
+tags: [życie, minimalizm, porządki, ubrania]
 comments: true
 ---
 
-## Prompt zachęcający do przeczytania artykułu
+Od zawsze chciałam ładnie wyglądać i dobrze czuć się w swoich ubraniach. Przeszłam przez różne fazy – od szkolnego dopasowywania się do znajomych, żeby nie odstawać od grupy, przez studenckie próby wyglądania bardziej poważnie i odpowiedzialnie, aż po geekowskie stylizacje, by wpasować się w świat IT. Ale ciągle to nie było to. Tym, co zawsze chciałam osiągnąć, było połączenie komfortu z dobrą prezencją. Nie zawsze mi się to udawało, próbowałam wielu podejść, aż w końcu na początku tego roku natknęłam się na aplikację [Indyx](https://www.myindyx.com/). I moje życie się odmieniło... No dobra, żartuję! Moje życie nie zmieniło się drastycznie, ale moje podejście do ubierania się już tak – i to zdecydowanie na lepsze. Chciałabym opowiedzieć Ci o tej zmianie, ale zacznijmy od początku.
 
-Odkąd pamiętam chciałam ładnie wyglądać i dobrze czyć się w swoich ubraniach. przeszłam przez różne fazy. Szkolne dostosowywanie się do znajomuch tak by nie odstawać. Studencie zmiany by wyglądać poważnie i odpowiedzialnie czy geekowskie ubrania by pasować do ludzi z IT. Ale to co zawsze chciałam osiągnąć czuć się komfortowo i wygodnie w ubraniach a przy tym wyglądać dobrze. NIe zawsze mi to wychodziło i próbowałam wielu rzeczy aż na początku roku spórbowałam aplikacji Index i moje życie się odmieniło. No dobrza żartuje może nie odmieniło ale zmieniło na lepsze. Chcę Ci o niej trochę opowiedzieć ale zacznijmy od początku. 
+## Jak to się zaczęło?
 
-## Jak to się zaczeło?
+Szczerze mówiąc, moja szafa od zawsze była wyzwaniem. Kilka lat temu próbowałam różnych metod, żeby nad nią zapanować – od [Capsule wardrobe](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html), przez [Project 333](https://bemorewithless.com/project-333/), aż po [Konmari](https://konmari.com/). Nie twierdzę, że te sposoby są złe czy nieskuteczne, ale wymagają sporej dyscypliny, a nawet pewnego rygoru. Mimo że jestem osobą dobrze zorganizowaną, czasami potrzebuję odrobiny luzu. A ten luz często przejawiał się właśnie w mojej szafie. Tu wycieczka do second handu, tam ubranie od koleżanki, które akurat mi się spodobało – i w rezultacie moja szafa była pełna rzeczy, które niekoniecznie do siebie pasowały. Można by to nazwać twórczym chaosem. Co jakiś czas, na przykład przy zmianie pory roku, robiłam przegląd rzeczy i udawało mi się jako tako nad nią zapanować. 
 
-Przyznam szczerze że moja szafa to ogromne wyzwanie. Już kilka lat temu póbowałam rożnego podejścia do utrzymania jej w ryzach a to Capsule wardrobe a to Project 333 a to Konmari. Nie mówię że te sposoby są złe lub że nie działają ale wymagają pewnej stanowczości można nawet powiedzieć trochę ostrzej rygoru. O ile jestem osobą dobrze zorganizowaną, poukładaną to czasem potrzebuje trochę luzu. I ten luz często miał ujście w mojej szafie. Tu poszłam do sacond handu, tam dostałam coś od koleżanki co bardzo mi się podobało. I tak moja szafa ciągle była pełna różnych rzeczy które nie zawsze do siebie pasują. Powiedziałabym twórczy chaos. Co jakiś czas np. z okazji zmiany pory roku robiłam przegląd rzeczy i tak to moja szafa była mnie więcej pod kontrolą. 
+Jednak od czasu do czasu powracał ten sam problem: nie mam się w co ubrać. Niby szafa pełna ubrań, a ja nie mam pomysłu, co założyć. O 6 rano tuż przed wyjściem do pracy nie jestem w szczycie kreatywności. Wieczorem z kolei często byłam na tyle zmęczona, że brakowało mi motywacji, by przygotować coś na następny dzień. I tak narastała frustracja.
 
-Jednak co jakiś czas powracał do mnie pewien problem: nie mam się w co ubrać. Niby szafa pełna ubrań a ja nie mam pomysłu co założyć. Dodatkowo 6 rano nie jest moim najbardziej kreatywnym momentem dnia. A wieczorem często zdarzało mi się być na tyle zmęczoną by nie mieć motywacji na przygotowanie ubrania na następny dzień. Więc frustracja narastała.
+Jedyny moment, kiedy byłam naprawdę zadowolona ze swojej szafy, to [wyjazd do Australii](https://womanonrails.com/pl/remote-work). Ograniczony wybór ulubionych ubrań okazał się strzałem w dziesiątkę. Niewiele ciuchów, a codziennie miałam mnóstwo pomysłów, jak się ubrać. Na początku tego roku brakowało mi tego uczucia. Szukałam inspiracji i wtedy natknęłam się na aplikację [Indyx](https://www.myindyx.com/).
 
-Jedyny moment w którym byłam super zadowolona ze swojej szafy to podczas wyjazdu do australii. Ograniczony wybór ulubionych ubrań to było to. To by moment gdy na prawdę szafa kapsulkowa mi się sprawdziła. Niby nie wiele ciuchów a co dziennie miałam mnustwo pomysłów na to jak się ubrać. Na początku tego roku bardzo brakowało mi tego uczucia. Dalej szukałam inspiracji co zrobić. W oko wpadła mi aplikacja [Indyx](https://www.myindyx.com/).
+Indyx to aplikacja, która pomaga zdigitalizować swoją szafę i planować codzienne stylizacje. Robienie zdjęć moim ubraniom sprawiło mi mnóstwo frajdy, a jednocześnie pozwoliło na dokładne przejrzenie, co tak naprawdę mam w szafie. Im więcej rzeczy wprowadzałam do aplikacji, tym bardziej odkrywałam jej możliwości. Wyszukiwanie ubrań, przeglądanie statystyk dotyczących tego, co noszę, a co zalega w szafie, zapamiętywanie stworzonych stylizacji czy planowanie na przyszłość – to wszystko stało się łatwiejsze. Co więcej, poza szczegółowymi statystykami, większość funkcji aplikacji jest dostępna za darmo. Dla modowych freaków są też dodatkowe opcje, jak konsultacje ze stylistką. Używam Indyx już od ponad pół roku i jestem bardzo zadowolona, dlatego chciałabym podzielić się z Tobą swoimi wrażeniami.
 
-Indyx to aplikacja do zdigitalizowania swojej szafy i przygotowywania strojów na każdy dzień. Nie dość że robienie zdjęć moim ubranią dało mi wiele radości to jeszcze dokładnie mogłam przejrzeć co w tej mojej szafie się znajduje. Im więcej wprowadzałam do aplikacji danych tym więcej mogłam z niej wyciądnąć. Wyszukiwanie odpowiedniego ubrania, oglądanie statystyk z tego co noszę a co nie, zapamiętywanie wszystkich stowrzony strojów czy planowanie co i kiedy będę nosić. Plus dodatkowo w zasadzie wszystko poza bardzo szczegółowymi statystykami jest dostępne w aplikacji za darmo. Istnieją tam też dotatkowe usługi jak konsultacje ze stylistą. Używam aplikacji już od ponad pół roku i jestem bardzo zadowolona dlatego chciałabym Wam tochę o niej opoiwiedzieć.
+## Co podoba mi się w aplikacji Indyx
 
-## Co podoba mi się w aplikacji
+- **Digitalizacja szafy** 📱 – Dzięki temu mam pełen wgląd w to, co znajduje się w mojej garderobie. Mogę przeszukiwać szafę zarówno pod kątem pojedynczych ubrań, jak i gotowych zestawów. To bardzo praktyczne, bo nawet jeśli jakieś ubranie _zniknęło_ gdzieś na dnie szuflady, aplikacja mi o nim przypomni.
 
-- digitalizacja szafy pozwoliła mi na całościowy wgląd w moją szafę. Mogę dowolnie po niej przesukiwać czy to po pojedyńczych ubraniach czy po zestawach/strojach
-- dołączony do aplikacji mini kurs i quiz dotyczący stylu sprawił że zaczełam mieć większe rozeznanie w tym co mi się podoba a co nie. Jak jest różnica między moim stylem na codzień wynikjącym z tego co robie, gdzie pracuje i jak spędzam czas a tym jak chciałabym wyglądać ale nie bardzo to pasuje do mojego stylu bycia. Taka wyobrazona ja i spowadziło mnie na ziemię by skupić się na tu i teraz - 3 styling words (osobny artykuł na ten temat)
-- wokół aplikacji powstałam super przyjazna społecznośc która wspiera się na wzajem co jeszcze bardziej motywuje 
-- jeżeli wpadł mi do głowy jakiś pomysł ubrania to odrazu mogę go zapisać i na pewno niezapomne o nim gdy kiedyś nie będę miała pomysłu co ubrać mogę zajrzeć na już przygotowane zestawy
-- Kalendarz <3 - planowanie ubrania do przodu - w niedzielne popołudnie robie sobie czas dla siebie gdzie sprawdzam pogodę na następny tydzień i planuje co będę ubierać. Dzięki temu rano otwieram telefon i dosłownie w 3 minuty jestem gotowa. Zero stresu, zero zastanawiania się poprostu prosto i szybko.
-    - co gdy zmienia się pogoda? 
-        w 90% myślę że trafiam bez problemu patrzac na pogode długo terminowa a w tych 10% wystarczy przejść po już stworzonych zestawach i coś wybrać to znacznie prostrze niż patrzenie na pełną szafę lub lekko zmodyfikować to co już mam
-- Cost per were - czyli ile zapłaciłam za ubranie stroju na dzień. Jeżeli np. kupiłam drogi żakiet za 200zl i ubrałam go tylko raz to CPW = 200. Jeżeli natomiast nosiłąm go przez całe wakacje co najmniej raz w tygodniu to mamy CPW = 200 / (4 * 2) = 25. Im niższy CPW tym bardziej trafiony/wykorzystany był dany zakup. I aplikacja to liczy. Ma się wtedy czasno na białym napisane co się lubi nosić a co nie. Takie informacje są super pomocne. 
-- Statystyki - aplikacja dostarcza również funkcjonalności premium jedną z nich są bardzo dokładne statystyki na temat tego jak wygląda przekruj naszej garderoby czego mamy dużo a czego mało. Co często nosimy a co raczej żadko lub wcale. Jaka jest wartość naszej szafy, na co przeznaczamy pieniące i kiedy. Te wszystkie dane mogą nam wiele powiedzieć o naszych zwyczajach a jak można się domyślić dane nie kłamią. Czy mam powtarzające się elementy czy nie, jakie kolory lubie.
-- Selfy - poza możliwością dodania stroju jest możliwość podpięcia swojego sefy do stroju, wtedy jeżeli konkretnego dnia robi się zdjęcie i podpina ubranie to liczą się wszystkie statystyki i sefy widać w kalendarzu
-- Listy/kolekcje - jest też możliwość robienia różnych list czy to na jakąś podruż czy korzystając właśnie z [capsule wordrobe](), listy rzeczy kótre chcemy kupić itd. Najbardzie podoba mi się to że gdy do kolekcji dodamy stroje kótre na wyjeżdzie chcemy ubrać lista ubrań sama się stworzy. Kożystałam z tego mechanizmu już kulkukrotnie podczas wyjazdów i super się sprawdza.
+- **Edukacja** 👩‍🎓 – Do aplikacji dołączony jest mini kurs i quiz dotyczący stylu, które pomogły mi lepiej zrozumieć, co mi się podoba, a co nie. Dzięki temu zaczęłam dostrzegać różnicę między moim wymarzonym, ale mało realistycznym stylem, a tym, co faktycznie sprawdza się w mojej codzienności, biorąc pod uwagę, czym się zajmuję, gdzie pracuję i jak spędzam czas. Dostosowanie mojej garderoby do bieżących potrzeb sprawiło, że na nowo polubiłam swoje ubrania.
+
+- **Społeczność** 💃 – Wokół Indyx zbudowała się fantastyczna, wspierająca społeczność. Wzajemnie motywujemy się do odkrywania i testowania własnego stylu. Cieszę się, że mogę być częścią tej grupy.
+
+- **Zapis pomysłów** 💡 – Kiedy wpadnie mi do głowy jakiś pomysł na strój, mogę od razu go zapisać, dzięki czemu nie zapomnę o nim później. W momentach, gdy brakuje mi inspiracji, wystarczy, że zajrzę do zapisanych zestawów i mam gotowe rozwiązanie.
+
+- **Kalendarz** 💕 – Jedną z moich ulubionych funkcji jest możliwość planowania ubrań z wyprzedzeniem. W niedzielne popołudnia robię sobie mały rytuał: sprawdzam prognozę pogody na nadchodzący tydzień i planuję stroje na każdy dzień. Dzięki temu rano wystarczy otworzyć aplikację i dosłownie w trzy minuty jestem gotowa. Zero stresu, zero zastanawiania się – prosto i szybko. A co jeśli pogoda się zmieni? W 90% przypadków prognozy długoterminowe się sprawdzają, a jeśli nie, wystarczy przejrzeć wcześniej przygotowane zestawy lub lekko zmodyfikować zaplanowany strój. To o wiele prostsze niż stawanie przed pełną szafą i próba stworzenia czegoś od zera.
+
+- **Cost per wear** 💵 – Aplikacja oblicza tzw. "cost per wear" – czyli koszt ubrania podzielony przez liczbę jego użyć. Na przykład, jeśli kupiłam marynarkę za 200 zł i założyłam ją tylko raz, CPW wynosi 200 zł. Ale jeśli nosiłam ją przez całe wakacje, co najmniej raz w tygodniu, to CPW spada do 25 zł. Im niższy CPW, tym bardziej trafiony zakup. To świetny sposób na śledzenie, które ubrania naprawdę lubię nosić, a które są rzadziej wykorzystywane.
+
+- **Statystyki** 📈 – W wersji premium aplikacja dostarcza szczegółowych statystyk dotyczących zawartości naszej szafy. Można dowiadzieć się, czego ma się za dużo, czego za mało, jakie ubrania nosi się najczęściej, a które prawie nigdy. Można również zobaczyć, ile warta jest cała garderoba oraz na co przeznaczamy pieniądze. Te informacje pomagają lepiej zarządzać swoimi zakupami i świadomiej budować swoją garderobę.
+
+- **Selfie** 🤳 – Aplikacja pozwala również na dodanie swojego zdjęcia do każdej stylizacji. Jeśli konkretnego dnia zrobię zdjęcie stroju i przypiszę je do odpowiednich ubrań to statystyki są aktualizowane. Te selfie można później zobaczyć w kalendarzu, co jest świetnym sposobem na śledzenie swoich modowych wyborów.
+
+- **Listy/kolekcje** 🗂️ – Indyx umożliwia tworzenie list, np. na podróż czy takich [capsule wardrobe](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html). Można też tworzyć listy rzeczy, które chcemy kupić, albo tych, które chcemy częściej nosić. Najbardziej podoba mi się to, że gdy dodam do kolekcji zestawy strojów, aplikacja sama tworzy listę ubrań, które będą potrzebne. Korzystałam z tego kilka razy przy okazji wyjazdów i sprawdziło się to znakomicie.
 
 ## Podsumowanie wrażeń z aplikacji
 
-Jestem z aplikacji i mojego utworzonego wokół niej systemu super zadowolona. Niedość że układanie jakiś zestawów sprawia mi mega frajdę to jeszcze mam wrażenie że ciągle się czegoś uczę o sobie ale też o stylizowaniu ubrań. Czyję się trochę jak artystka a moim sposbem wyrazu jest ubiór. Chce mi się ciągle tworzyć nowe zestawy i wiem że mam jeszcze wiele możliwości przed sobą do odkrycia. Ekstra uczucie.
+Jestem bardzo zadowolona zarówno z aplikacji, jak i z systemu, który wokół niej zbudowałam. Układanie nowych zestawów sprawia mi ogromną frajdę, a przy okazji mam wrażenie, że ciągle uczę się czegoś nowego – o sobie, ale także o _sztuce_ stylizowania ubrań. Czuję się trochę jak artystka, a moim sposobem wyrażania siebie jest ubiór. Mam ochotę nieustannie tworzyć nowe kombinacje i wiem, że wciąż mam wiele możliwości przed sobą. To naprawdę fantastyczne uczucie!
 
 ## Moje wnioski
 
-Mam super szafę i mam mnustwo pomysłów, a nie kupiłam ani jednego nowego ubrani by poczuć że moja szafa jest super. Czuje się teraz fajnie w moich ubraniach ponieważ wcześniej planuje stroje to mogę bardziej zadbać o to co chce ubrać. Zaczełam więcej ekperymentować z moją szafą. Bardzo fajnie aplikacja wpisała się w moje myślenie o zmniejszeniu konsumpcjonizmu i korzystania z tego co już mamy. Dobrze wpisała się w moje wartości. Mam nadzieje że aplikacja pozwoli mi jeszcze lepiej zoptymalizować swoją szafę i mieć w niej tylko same ulubione ubrania i chodzić w nich cały czas.
+Mam świetną szafę pełną wspaniałych ubrań. Nie kupiłam ani jednej nowej rzeczy tylko dlatego, że _nie mam w co się ubrać_, mimo pełnej szafy. Wręcz przeciwnie – mam mnóstwo pomysłów na stylizacje i czuję się świetnie w tym, co już posiadam. Dzięki planowaniu ubiorów z wyprzedzeniem mogę lepiej zadbać o detale, co daje mi dodatkową satysfakcję. Zaczęłam też więcej eksperymentować z tym, co mam w szafie. Aplikacja doskonale wpisuje się w moje podejście do zmniejszania konsumpcjonizmu i korzystania z tego, co już posiadam. Mam nadzieję, że z jej pomocą uda mi się jeszcze bardziej zoptymalizować moją garderobę, aby została w niej tylko to, co naprawdę uwielbiam nosić.
 
 ## Link afiliacyjny
 
-Ten artykuł nie jest sponsorowany, ale jeżeli chciałxbyś skorzystać z aplikacji to możesz użyć mojego kodu WomanOnRails i dostać 10$ na start. 
+Ten artykuł nie jest sponsorowany, ale jeśli chciał(a)byś spróbować aplikacji Indyx, możesz skorzystać z mojego kodu afiliacyjnego **WomanOnRails** i otrzymać 10$ na start. 
 
-## Zródła
-- applikacja index
-- jak się inspirować jakimś zdjęciem w internecie
-- co inni mówią o aplikacji
-- QA z dziewczynami z indexu
-- Critiny a póżniej do Alison boarnstean 
-- ta babeczka z dani i jej takie zestawy przygotowane co im się zawsze podobało
-- alaiza statystyk przez tą jedną z babeczek
-- [Posumowanie lata ubrnaiowego](https://bemore.womanonrails.com/2019/11/05/capsule-wardrobe-summary.html)
-- [Capsule wadrobe](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html)
-- link do tego jak tworzyć zestawy YT
-- link do tego jak wyglądają statystyki YT
+## Źródła
+
+- [Aplicacja Indyx](https://www.myindyx.com/ "Strona aplikacji Indyx")
+- [Moja szafa w aplikacji Indyx](https://opencloset.myindyx.com/user/WomanOnRails)
+- [Posumowanie lata - co nosiłam?](https://bemore.womanonrails.com/2019/11/05/capsule-wardrobe-summary.html)
+- [Capsule wadrobe - co to jest?](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html)
+- [Ask Me Anything with Indyx Founders Yidi Campbell & Devon Rule](https://www.youtube.com/watch?v=gZTkrQbUkqo&t)
+- [Christina Mychas about Indyx](https://www.youtube.com/watch?v=fj1Bp-3xaPY)
+- [Anna Newton about Indyx](https://www.youtube.com/watch?v=D1ksY7UKLa4&t)
+- [What do I actually wear? - Indyx Analitics](https://www.youtube.com/watch?v=-qmofG-Umwg)
+- [I hired a personal stylist on Indyx](https://www.youtube.com/watch?v=QT8AFri9EwU)
+- [Making new outfits with my existing clothes](https://www.youtube.com/watch?v=L3-94gxRWJc&t)
