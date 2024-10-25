@@ -58,7 +58,7 @@ Mam świetną szafę pełną wspaniałych ubrań. Nie kupiłam ani jednej nowej 
 
 ## Link afiliacyjny
 
-Ten artykuł nie jest sponsorowany, ale jeśli chciał(a)byś spróbować aplikacji Indyx, możesz skorzystać z mojego kodu afiliacyjnego **WomanOnRails** i otrzymać 10$ na start. 
+Ten artykuł nie jest sponsorowany, ale jeśli chciał(a)byś spróbować aplikacji Indyx, możesz skorzystać z mojego kodu afiliacyjnego **WomanOnRails** i otrzymać $10 na start. 
 
 ![Plan ubraniowy na cały miesiąc w aplikacji Indyx](/images/indyx/indyx-app.png "Mój ubraniowy miesiąc")
 
