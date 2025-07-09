@@ -3,7 +3,7 @@ layout: post
 title: Książki, które przeczytałam w pierwszym kwartale 2025 roku
 headline: Zimowe podsumowanie książkowe
 description: Pierwszy kwartał 2025 roku minął, a ja mam już na koncie 10 przeczytanych książek – od reportaży po wciągającą powieść i inspirujący esej. Zapraszam na przegląd tytułów, które warto dodać do swojej listy lektur!
-excerpt: Książki przeczytane w 2024 roku - Podsumowanie
+excerpt: Książki przeczytane w pierwszym kwartale 2025 roku - Podsumowanie
 quote: Czytać to bardziej żyć, to żyć intensywniej.
 quote_author: Carlos Ruiz Zafón, „Cień wiatru”
 
