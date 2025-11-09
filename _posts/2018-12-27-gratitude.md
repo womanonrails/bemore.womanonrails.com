@@ -13,7 +13,7 @@ tags: [szczęście, wdzięczność]
 comments: true
 ---
 
-Zbliża się koniec roku. Wszyscy zaczynają planować Nowy Rok. Jaki to on nie będzie lepszy od poprzedniego roku. Pojawia się mnóstwo nowych postanowień. A to że schudnę, rzucę palenie lub będę codziennie ćwiczyć. Nie mówię że to złe. Sama lubię wchodzić w kolejny rok z czystym kontem i nowymi planami. O tym jak to robię pisałam już w artykułach: [Nowy Rok 2018](https://bemore.womanonrails.com/2018/01/05/new-year-2018.html) i [Noworoczne postanowienia](https://bemore.womanonrails.com/2016/12/22/plans-for-2017.html). Tym razem chciałabym się na moment zatrzymać i podziękować za ten kończący się rok zanim zacznę plany na rok następny.
+Zbliża się koniec roku. Wszyscy zaczynają planować Nowy Rok. Jaki to on nie będzie lepszy od poprzedniego roku. Pojawia się mnóstwo nowych postanowień. A to że schudnę, rzucę palenie lub będę codziennie ćwiczyć. Nie mówię że to złe. Sama lubię wchodzić w kolejny rok z czystym kontem i nowymi planami. O tym jak to robię pisałam już w artykułach: [Nowy Rok 2018]({% post_url 2018-01-05-new-year-2018 %}) i [Noworoczne postanowienia]({% post_url 2016-12-22-plans-for-2017 %}). Tym razem chciałabym się na moment zatrzymać i podziękować za ten kończący się rok zanim zacznę plany na rok następny.
 
 <!--break-->
 

@@ -13,7 +13,7 @@ tags: [minimalizm, porządki]
 comments: true
 ---
 
-Zima za pasem, więc najwyższa pora by podsumować moją [letnią garderobę w pigułce](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html). Pomimo tego, że używam **capsule wardrobe** już od kilku lat i tak od czasu do czasu zdarza mi się być nie do końca zadowoloną z tego, co się w niej znalazło. Dziś pora na ubraniowy rachunek sumienia.
+Zima za pasem, więc najwyższa pora by podsumować moją [letnią garderobę w pigułce]({% post_url 2019-04-23-capsule-wardrobe %}). Pomimo tego, że używam **capsule wardrobe** już od kilku lat i tak od czasu do czasu zdarza mi się być nie do końca zadowoloną z tego, co się w niej znalazło. Dziś pora na ubraniowy rachunek sumienia.
 
 <!--break-->
 

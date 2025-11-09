@@ -13,7 +13,7 @@ tags: [minimalizm, porządki]
 comments: true
 ---
 
-Jak już wspominałam w ostatnim poście [Zapełnianie pustki](https://bemore.womanonrails.com/2018/07/30/empty-space.html) planowałam uporządkować moją przestrzeń korzystając z **metody KonMari**. Poświęciłam na to cały sierpień. A teraz chciałabym podzielić się z Wami moimi przemyśleniami.
+Jak już wspominałam w ostatnim poście [Zapełnianie pustki]({% post_url 2018-07-30-empty-space %}) planowałam uporządkować moją przestrzeń korzystając z **metody KonMari**. Poświęciłam na to cały sierpień. A teraz chciałabym podzielić się z Wami moimi przemyśleniami.
 
 <!--break-->
 

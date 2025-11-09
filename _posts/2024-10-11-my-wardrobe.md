@@ -20,7 +20,7 @@ Od zawsze chciałam ładnie wyglądać i dobrze czuć się w swoich ubraniach. P
 
 ## Jak to się zaczęło?
 
-Szczerze mówiąc, moja szafa od zawsze była wyzwaniem. Kilka lat temu próbowałam różnych metod, żeby nad nią zapanować – od [Capsule wardrobe](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html "Szafa kapsułkowa po mojemu"), przez [Project 333](https://bemorewithless.com/project-333/ "33 ubrania na 3 miesiące"), aż po [Konmari](https://bemore.womanonrails.com/2018/09/13/metoda-konmari.html "KonMari w praktyce, czyli jak to wyglądało u mnie"). Nie twierdzę, że te sposoby są złe czy nieskuteczne, ale wymagają sporej dyscypliny, a nawet pewnego rygoru. Mimo że jestem osobą dobrze zorganizowaną, czasami potrzebuję odrobiny luzu. A ten luz często przejawiał się właśnie w mojej szafie. Tu wycieczka do second handu, tam ubranie od koleżanki, które akurat mi się spodobało – i w rezultacie moja szafa była pełna rzeczy, które niekoniecznie do siebie pasowały. Można by to nazwać twórczym chaosem. Co jakiś czas, na przykład przy zmianie pory roku, robiłam przegląd rzeczy i udawało mi się jako tako nad nią zapanować. 
+Szczerze mówiąc, moja szafa od zawsze była wyzwaniem. Kilka lat temu próbowałam różnych metod, żeby nad nią zapanować – od [Capsule wardrobe]({% post_url 2019-04-23-capsule-wardrobe %} "Szafa kapsułkowa po mojemu"), przez [Project 333](https://bemorewithless.com/project-333/ "33 ubrania na 3 miesiące"), aż po [Konmari]({% post_url 2018-09-13-metoda-konmari %} "KonMari w praktyce, czyli jak to wyglądało u mnie"). Nie twierdzę, że te sposoby są złe czy nieskuteczne, ale wymagają sporej dyscypliny, a nawet pewnego rygoru. Mimo że jestem osobą dobrze zorganizowaną, czasami potrzebuję odrobiny luzu. A ten luz często przejawiał się właśnie w mojej szafie. Tu wycieczka do second handu, tam ubranie od koleżanki, które akurat mi się spodobało – i w rezultacie moja szafa była pełna rzeczy, które niekoniecznie do siebie pasowały. Można by to nazwać twórczym chaosem. Co jakiś czas, na przykład przy zmianie pory roku, robiłam przegląd rzeczy i udawało mi się jako tako nad nią zapanować. 
 
 Jednak od czasu do czasu powracał ten sam problem: nie mam się w co ubrać. Niby szafa pełna ubrań, a ja nie mam pomysłu, co założyć. O 6 rano tuż przed wyjściem do pracy nie jestem w szczycie kreatywności. Wieczorem z kolei często byłam na tyle zmęczona, że brakowało mi motywacji, by przygotować coś na następny dzień. I tak narastała frustracja.
 
@@ -46,7 +46,7 @@ Indyx to aplikacja, która pomaga zdigitalizować swoją szafę i planować codz
 
 - **Selfie** 🤳 – Aplikacja pozwala również na dodanie swojego zdjęcia do każdej stylizacji. Jeśli konkretnego dnia zrobię zdjęcie stroju i przypiszę je do odpowiednich ubrań to statystyki są aktualizowane. Te selfie można później zobaczyć w kalendarzu, co jest świetnym sposobem na śledzenie swoich modowych wyborów.
 
-- **Listy/kolekcje** 🗂️ – Indyx umożliwia tworzenie list, np. na podróż czy takich [capsule wardrobe](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html "Szafa kapsułkowa po mojemu"). Można też tworzyć listy rzeczy, które chcemy kupić, albo tych, które chcemy częściej nosić. Najbardziej podoba mi się to, że gdy dodam do kolekcji zestawy strojów, aplikacja sama tworzy listę ubrań, które będą potrzebne. Korzystałam z tego kilka razy przy okazji wyjazdów i sprawdziło się to znakomicie.
+- **Listy/kolekcje** 🗂️ – Indyx umożliwia tworzenie list, np. na podróż czy takich [capsule wardrobe]({% post_url 2019-04-23-capsule-wardrobe %} "Szafa kapsułkowa po mojemu"). Można też tworzyć listy rzeczy, które chcemy kupić, albo tych, które chcemy częściej nosić. Najbardziej podoba mi się to, że gdy dodam do kolekcji zestawy strojów, aplikacja sama tworzy listę ubrań, które będą potrzebne. Korzystałam z tego kilka razy przy okazji wyjazdów i sprawdziło się to znakomicie.
 
 ## Podsumowanie wrażeń z aplikacji
 
@@ -66,8 +66,8 @@ Ten artykuł nie jest sponsorowany, ale jeśli chciał(a)byś spróbować aplika
 
 - [Aplicacja Indyx](https://www.myindyx.com/ "Strona aplikacji Indyx")
 - [Moja szafa w aplikacji Indyx](https://opencloset.myindyx.com/user/WomanOnRails)
-- [Posumowanie lata - co nosiłam?](https://bemore.womanonrails.com/2019/11/05/capsule-wardrobe-summary.html)
-- [Capsule wadrobe - co to jest?](https://bemore.womanonrails.com/2019/04/23/capsule-wardrobe.html)
+- [Posumowanie lata - co nosiłam?]({% post_url 2019-11-05-capsule-wardrobe-summary %})
+- [Capsule wadrobe - co to jest?]({% post_url 2019-04-23-capsule-wardrobe %})
 - [Ask Me Anything with Indyx Founders Yidi Campbell & Devon Rule](https://www.youtube.com/watch?v=gZTkrQbUkqo&t)
 - [Christina Mychas about Indyx](https://www.youtube.com/watch?v=fj1Bp-3xaPY)
 - [Anna Newton about Indyx](https://www.youtube.com/watch?v=D1ksY7UKLa4&t)
