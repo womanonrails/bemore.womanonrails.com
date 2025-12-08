@@ -1,5 +1,27 @@
+// Bootstrap 5 usunął .thumbnail - odtwarzamy podstawową strukturę
 .thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: $background-color;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  transition: border 0.2s ease-in-out;
   letter-spacing: $letter-spacing;
+
+  &:hover {
+    border-color: $hover-color;
+  }
+
+  > img,
+  a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
 
   a {
     color: $dark-text-color;
@@ -50,7 +72,9 @@
   }
 
   .caption {
+    padding: 9px;
     padding-left: 23px;
     padding-right: 23px;
+    color: $text-color;
   }
 }
