@@ -4,7 +4,7 @@ layout: default
 
 <div class='container post-container'>
   <div class='row'>
-    <div class='col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4'>
+    <div class='col-md-6 offset-md-3 col-lg-4 offset-lg-4'>
       <div class='post-header'>
         <h1>{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         <p>
@@ -44,25 +44,25 @@ layout: default
 
 <div class='container'>
   <div class='row'>
-    <div class='col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4'>
+    <div class='col-md-6 offset-md-3 col-lg-4 offset-lg-4'>
       <div class='page-pagination'>
         <div class="btn-group" role="group">
           {% if page.next %}
             <a href="{{ page.next.url }}" class="btn btn-default">
-              <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+              <i class="bi bi-chevron-left" aria-hidden="true"></i>
             </a>
           {% else %}
             <a href="#" class="btn btn-default disabled">
-              <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+              <i class="bi bi-chevron-left" aria-hidden="true"></i>
             </a>
           {% endif %}
           {% if page.previous %}
             <a href="{{ page.previous.url }}" class="btn btn-default">
-              <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+              <i class="bi bi-chevron-right" aria-hidden="true"></i>
             </a>
           {% else %}
             <a href="#" class="btn btn-default disabled">
-              <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+              <i class="bi bi-chevron-right" aria-hidden="true"></i>
             </a>
           {% endif %}
         </div>

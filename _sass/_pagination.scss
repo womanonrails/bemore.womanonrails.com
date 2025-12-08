@@ -6,6 +6,7 @@
   .btn-link {
     color: $dark-text-color;
     cursor: auto;
+    text-decoration: none;
 
     &:hover {
       text-decoration: none;
@@ -20,7 +21,7 @@
 
     &.btn-default {
       background-color: $background-grey-color;
-      border-width: 1px;
+      border: 1px solid $border-color;
       color: $dark-text-color;
       font-weight: 700;
 
@@ -30,18 +31,28 @@
       transition: color 0.2s ease,border-color 0.2s ease;
 
       &:hover {
+        background-color: $background-grey-color;
         border-color: $hover-color;
         color: $hover-color;
       }
 
-      &.active, &:active {
-        background-color:  $background-grey-color;
+      &.active,
+      &:active,
+      &:focus {
+        background-color: $background-grey-color;
+        border-color: $border-color;
         box-shadow: none;
       }
     }
 
-    &.disabled {
+    &.disabled,
+    &:disabled {
       color: $light-text-color;
+      pointer-events: none;
     }
+  }
+
+  .bi {
+    font-size: 1.2em;
   }
 }

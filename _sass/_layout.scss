@@ -1,6 +1,11 @@
 @media (min-width: 1500px) {
-  .container {
-      width: 1470px;
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1470px;
   }
 }
 
@@ -15,9 +20,33 @@ body {
   color: $hover-color;
 }
 
+.badge {
+  border-radius: 0.25rem;
+  font-size: inherit;
+  font-weight: normal;
+}
+
+.list-inline {
+  > li {
+    display: inline-block;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+
+  > li:first-child {
+    padding-left: 0;
+  }
+}
+
 .tag-list .btn-default {
   color: $white-text-color;
   background-color: $background-dark-grey-color;
+  border: 1px solid $background-dark-grey-color;
+
+  &:hover {
+    background-color: darken($background-dark-grey-color, 10%);
+    border-color: darken($background-dark-grey-color, 10%);
+  }
 
   .badge {
     color: $text-color;
