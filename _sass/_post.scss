@@ -9,10 +9,18 @@
     letter-spacing: $letter-spacing;
     margin: 40px auto;
     padding-bottom: 15px;
-    padding-top: 12px;
+    padding-top: 20px;
     text-align: center;
     text-transform: uppercase;
     width: 100%;
+
+    h1 {
+      font-size: 36px;
+    }
+
+    p {
+      font-size: 12px;
+    }
   }
 
   .post-image {
@@ -43,8 +51,13 @@
     font-size: 20px;
     text-align: justify;
 
+    strong, b {
+      font-weight: 700;
+    }
+
     blockquote {
       margin-bottom: 60px;
+      font-size: 18px;
 
       border-left: 0;
       border-right: 5px solid #eee;
@@ -65,10 +78,15 @@
         color: $dark-text-color;
         font-weight: 700;
       }
+
+      footer {
+        font-size: 14px;
+      }
     }
 
     a {
       color: $light-text-color;
+      text-decoration: none;
       -moz-transition: color 0.2s ease-out;
       -ms-transition: color 0.2s ease-out;
       -webkit-transition: color 0.2s ease-out;
