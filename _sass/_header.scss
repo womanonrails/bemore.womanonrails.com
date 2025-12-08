@@ -4,18 +4,24 @@
   font-weight: 700;
   letter-spacing: $letter-spacing;
   text-transform: uppercase;
+  border-bottom: 1px solid $border-color;
 
   &.navbar {
     background-color: $background-color;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .navbar-nav {
-    margin-top: 15px;
+    margin-top: 0;
   }
 
   .navbar-nav > li > a,
   .navbar-nav .nav-link {
     color: $dark-text-color;
+    font-size: 14px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     -moz-transition: color 0.2s ease;
     -ms-transition: color 0.2s ease;
     -webkit-transition: color 0.2s ease;
@@ -25,7 +31,9 @@
   }
 
   .navbar-brand {
-    margin-top: -5px;
+    margin-top: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 
     img {
       height: 60px;
@@ -33,7 +41,7 @@
   }
 
   .navbar-toggler {
-    margin-top: 20px;
+    margin-top: 0;
     border: none;
   }
 
@@ -48,7 +56,7 @@
   }
 
   .container {
-    margin-bottom: 15px;
+    margin-bottom: 0;
   }
 
   .dropdown-menu > li > span {
