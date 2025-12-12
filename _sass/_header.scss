@@ -30,6 +30,17 @@
     transition: color 0.2s ease;
 
     &:hover { color: $hover-color; }
+
+    &:focus {
+      color: $hover-color;
+      outline: 2px solid $hover-color;
+      outline-offset: 2px;
+    }
+
+    &[aria-current="page"] {
+      color: $hover-color;
+      font-weight: 700;
+    }
   }
 
   .navbar-brand {
@@ -45,6 +56,12 @@
   .navbar-toggler {
     margin-top: 0;
     border: none;
+
+    &:focus {
+      outline: 2px solid $hover-color;
+      outline-offset: 2px;
+      box-shadow: none;
+    }
   }
 
   .navbar-toggler-icon {

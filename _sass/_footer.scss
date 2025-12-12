@@ -18,9 +18,23 @@
 
   a {
     color: $light-text-color;
+    text-decoration: none;
+    border-bottom: 1px dotted $border-color;
+    -moz-transition: color 0.2s ease-out, border-color 0.2s ease-out;
+    -ms-transition: color 0.2s ease-out, border-color 0.2s ease-out;
+    -webkit-transition: color 0.2s ease-out, border-color 0.2s ease-out;
+    transition: color 0.2s ease-out, border-color 0.2s ease-out;
 
     &:hover {
+      color: $hover-color;
       text-decoration: none;
+      border-bottom-color: $hover-color;
+    }
+
+    &:focus {
+      color: $hover-color;
+      outline: 2px solid $hover-color;
+      outline-offset: 2px;
     }
   }
 
