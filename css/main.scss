@@ -3,6 +3,15 @@
 ---
 @charset "utf-8";
 
+// Import partials from `sass_dir` (defaults to `_sass`)
+@use "variables";
+@use "layout";
+@use "header";
+@use "thumbnail";
+@use "pagination";
+@use "footer";
+@use "post";
+
 @import url(http://weloveiconfonts.com/api/?family=fontawesome);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
@@ -11,14 +20,3 @@
 [class*="fontawesome-"]:before {
   font-family: 'FontAwesome', sans-serif;
 }
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "variables",
-        "layout",
-        "header",
-        "thumbnail",
-        "pagination",
-        "footer",
-        "post"
-;

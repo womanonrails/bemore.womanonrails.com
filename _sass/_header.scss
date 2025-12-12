@@ -1,3 +1,5 @@
+@use "variables" as *;
+
 .header {
   background-color: $background-color;
   font-family: $raleway-fonts;

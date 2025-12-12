@@ -1,3 +1,5 @@
+@use "variables" as *;
+
 // Bootstrap 5 usunął .thumbnail - odtwarzamy podstawową strukturę
 .thumbnail {
   display: block;
