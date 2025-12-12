@@ -12,11 +12,5 @@
 @use "footer";
 @use "post";
 
-@import url(http://weloveiconfonts.com/api/?family=fontawesome);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
-
-/* fontawesome */
-[class*="fontawesome-"]:before {
-  font-family: 'FontAwesome', sans-serif;
-}
