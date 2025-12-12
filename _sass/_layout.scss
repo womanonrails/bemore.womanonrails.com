@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "variables" as *;
+
 @media (min-width: 1500px) {
   .container,
   .container-lg,
@@ -52,8 +55,8 @@ body {
   padding: 6px 12px;
 
   &:hover {
-    background-color: darken($background-dark-grey-color, 10%);
-    border-color: darken($background-dark-grey-color, 10%);
+    background-color: color.adjust($background-dark-grey-color, $lightness: -10%);
+    border-color: color.adjust($background-dark-grey-color, $lightness: -10%);
   }
 
   .badge {
