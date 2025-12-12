@@ -5,6 +5,7 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @use "variables";
+@use "accessibility";
 @use "layout";
 @use "header";
 @use "thumbnail";
