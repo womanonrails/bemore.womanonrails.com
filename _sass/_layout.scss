@@ -48,14 +48,14 @@ body {
 }
 
 .tag-list .btn-default {
-  color: $white-text-color !important; // Biały tekst dla kontrastu
-  background-color: $dark-text-color !important; // Ciemne tło #3c3b3b dla lepszego kontrastu
+  color: $white-text-color !important; // White text for contrast
+  background-color: $dark-text-color !important; // Dark background #3c3b3b for better contrast (10.7:1)
   border: 1px solid $dark-text-color !important;
   font-size: 13px;
   padding: 6px 12px;
 
   &:hover {
-    background-color: $hover-color !important; // Czerwony kolor hover
+    background-color: $hover-color !important; // Red hover color matching site theme
     border-color: $hover-color !important;
     color: $white-text-color !important;
   }
@@ -71,7 +71,7 @@ body {
     color: $text-color;
     text-transform: uppercase;
     font-size: 15px;
-    font-weight: 600; // Zwiększona grubość dla lepszej czytelności
+    font-weight: 600; // Increased weight for better readability
 
     -moz-transition: color 0.2s ease, border-color 0.2s ease;
     -ms-transition: color 0.2s ease, border-color 0.2s ease;
