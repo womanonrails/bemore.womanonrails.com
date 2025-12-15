@@ -30,7 +30,7 @@ layout: default
 
     <ul class="list-inline tags">
       {% for tag in page.tags %}
-        <li><a href="/tags.html#{{ tag }}">{{ tag }}</a></li>
+        <li><a href="/search.html?category={{ tag }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
 
