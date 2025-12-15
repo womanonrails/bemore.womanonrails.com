@@ -1,0 +1,47 @@
+@use "variables" as *;
+
+// Skip to main content link - ukryty do momentu otrzymania focus
+.skip-to-main {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background-color: $hover-color;
+  color: $white-text-color;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-weight: 700;
+  z-index: 9999;
+  transition: top 0.2s ease;
+
+  &:focus {
+    top: 0;
+    outline: 2px solid $dark-text-color;
+    outline-offset: 2px;
+  }
+}
+
+// Respect user's motion preferences
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// Better focus visibility for keyboard users
+:focus-visible {
+  outline: 2px solid $hover-color;
+  outline-offset: 2px;
+}
+
+// Improved contrast for badge in tag buttons
+// Badge requires dark text on light background for WCAG AA compliance (minimum 4.5:1)
+.tag-list .btn-default .badge {
+  color: $dark-text-color !important; // #3c3b3b - 10.7:1 contrast ratio on white background
+  background-color: $background-color !important; // White background
+  font-weight: 700;
+}
