@@ -28,6 +28,10 @@
   .post-image {
     margin-bottom: 60px;
 
+    &.no-margin {
+      margin-bottom: 0;
+    }
+
     .image {
       overflow: hidden;
       width: 100%;
