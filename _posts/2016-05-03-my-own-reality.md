@@ -9,7 +9,7 @@ excerpt: Wyzwanie by zacząć działać i zmieniać świat na lepsze
 image: my-own-reality.jpg
 image_alt: Wiele drzwi o różnych kształtach, wymiarach i kolorach
 image_title: Moja własna rzeczywistość
-tags: [start, wymagania]
+tags: ['lifestyle', 'rozwój osobisty']
 comments: true
 ---
 

@@ -9,7 +9,7 @@ quote_author: (unknown)
 image: me-time.jpg
 image_alt: Zachód słońca nad blokami
 image_title: Potrzebujemy czasu na małe przyjemności takie jak zachód słońca
-tags: [czas, slow life, szczęście]
+tags: ['emocje', 'lifestyle', 'slow life', 'wellbeing']
 comments: true
 ---
 

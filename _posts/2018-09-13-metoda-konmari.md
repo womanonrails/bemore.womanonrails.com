@@ -9,7 +9,7 @@ quote_author: Joanna Spencer - Grace. Księżna Monako
 image: konmari.jpg
 image_alt: Lampy w kształcie kół rozświetlone małymi żarówkami.
 image_title: Warto mieć wszystkie przedmioty w harmonii ze sobą.
-tags: [minimalizm, porządki]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

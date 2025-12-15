@@ -9,7 +9,7 @@ quote_author: aplikacja Calm
 image: meditation.jpg
 image_alt: Kwiat lawendy na łące
 image_title: Medytacja jako forma relaksu dla duszy i ciała
-tags: [przepracowanie, medytacja, zdrowie]
+tags: ['medytacja', 'praca', 'rozwój osobisty', 'wellbeing']
 comments: true
 ---
 

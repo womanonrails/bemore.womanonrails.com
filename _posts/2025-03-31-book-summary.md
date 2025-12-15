@@ -10,7 +10,7 @@ quote_author: Carlos Ruiz Zafón, „Cień wiatru”
 image: library-2025.jpg
 image_alt: Zajrzyj do biblioteki po dobrą książkę
 image_title: Pierwszy kwartał 2025 roku obfitował w dobre książki, które chciało się czytać. Oto ich podsumowanie.
-tags: [życie, slow life, szczęście, książki]
+tags: ['książki', 'lifestyle', 'slow life']
 comments: true
 ---
 

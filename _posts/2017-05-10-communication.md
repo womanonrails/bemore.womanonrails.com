@@ -9,7 +9,7 @@ quote_author: ks. Mieczysław Maliński - Rozmawiaj
 image: communication.jpg
 image_alt: Restauracja z białymi stolikami i dużymi oknami, gdzie kilka osób je lunch
 image_title: Komunikacja to podstawa naszych relacji z ludźmi
-tags: [komunikacja, empatia, zrozumienie]
+tags: ['emocje', 'relacje']
 comments: true
 ---
 

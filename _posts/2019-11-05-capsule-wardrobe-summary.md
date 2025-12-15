@@ -9,7 +9,7 @@ quote_author: Courtney Carver
 image: summer-in-the-park.jpg
 image_alt: Lato w parku
 image_title: Lato szybko mija i nadchodzi czas ubraniowych podsumowań.
-tags: [minimalizm, porządki]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

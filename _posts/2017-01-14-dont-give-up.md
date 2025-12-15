@@ -9,7 +9,7 @@ quote_author: Krzysztof Gonciarz (z filmu Porażki)
 image: dont-give-up.jpg
 image_alt: Kilka trzymających się łodygi dmuchawców (powstałych po przekwitnięciu najzwyklejszego mlecza)
 image_title: Każdy z nas ma coś o co warto walczyć
-tags: [plany, marzenia, wytrwałość]
+tags: ['rozwój osobisty', 'praca']
 comments: true
 ---
 

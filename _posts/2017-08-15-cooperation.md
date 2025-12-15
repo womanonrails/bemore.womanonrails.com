@@ -9,7 +9,7 @@ quote_author: Regina Brett - Bóg zawsze znajdzie Ci prace
 image: cooperation.jpg
 image_alt: Rozświetlona scena, na której występuje zespół muzyczny
 image_title: Współpraca z innymi może dać niesamowite efekty. Tak się dzieje na scenie przy występach zespołów muzycznych.
-tags: [współpraca, szczęście, relacje]
+tags: ['emocje', 'relacje']
 comments: true
 ---
 

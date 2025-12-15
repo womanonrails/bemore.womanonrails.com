@@ -9,7 +9,7 @@ quote_author: Sokrates
 image: pleasures.jpg
 image_alt: Żółte kwiatki pokazane w żabiej perspektywie z widokiem za niebieskie niebo.
 image_title: Słońce, kwiaty, niebo - wszystko może być drobną przyjemnością dla naszej duszy.
-tags: [szczęście, przyjemności]
+tags: ['emocje', 'wellbeing']
 comments: true
 ---
 

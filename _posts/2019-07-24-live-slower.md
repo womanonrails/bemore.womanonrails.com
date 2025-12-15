@@ -9,7 +9,7 @@ quote_author: (autor nieznany)
 image: slow-life.jpg
 image_alt: Zachód słońca nad rotundą w Cieszynie.
 image_title: Odzyskaj swój czas by cieszyć się pięknymi zachodami słońca.
-tags: [życie, slow life, szczęście]
+tags: ['emocje', 'lifestyle', 'slow life']
 comments: true
 ---
 

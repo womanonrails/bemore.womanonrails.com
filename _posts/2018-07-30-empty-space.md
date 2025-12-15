@@ -9,7 +9,7 @@ quote_author: Be more with less - Courtney Carver
 image: empty-space.jpg
 image_alt: Bańki mydlane na tle niebieskiego nieba.
 image_title: Pusta przestrzeń też może być piękna.
-tags: [minimalizm, porządki]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

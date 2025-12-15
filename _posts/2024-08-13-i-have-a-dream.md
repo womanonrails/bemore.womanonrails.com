@@ -10,7 +10,7 @@ quote_author: Joanna Glogaza
 image: i-have-a-deam.jpg
 image_alt: Samolot na tle nieba
 image_title: Marzenie o życiu bez społecznych oczekiwań
-tags: [życie, szczęście, wymagania, komunikacja]
+tags: ['emocje', 'lifestyle', 'rozwój osobisty', 'wellbeing']
 comments: true
 ---
 

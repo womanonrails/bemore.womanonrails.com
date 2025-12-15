@@ -9,7 +9,7 @@ excerpt: Świadome dzisiaj, jako rada na życie przyszłością.
 image: important-now.jpg
 image_alt: Matka ciesząca się czasem spędzanym ze swoim dzieckiem
 image_title: Cudowne teraz, zamiast nieznanego jutro
-tags: [szczęście]
+tags: ['emocje', 'rozwój osobisty']
 comments: true
 ---
 

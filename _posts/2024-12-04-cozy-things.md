@@ -10,7 +10,7 @@ quote_author: Kubuś Puchatek
 image: lights.jpg
 image_alt: Świąteczne światła, tworzące ciepły, przytulny nastrój.
 image_title: 'Magia zimowych drobiazgów: znajdź radość w codzienności'
-tags: [życie, szczęście, przyjemności]
+tags: ['emocje', 'lifestyle', 'wellbeing']
 comments: true
 ---
 

@@ -9,7 +9,7 @@ quote_author: (nieznany)
 image: spontaneous.jpg
 image_alt: Stary zegar, który przypomina o dobrym planowaniu czasu
 image_title: Nie tylko planowanie przydaje się w życiu, trzeba też znaleźć czas na odrobinę spontaniczności.
-tags: [spontaniczność]
+tags: ['lifestyle', 'rozwój osobisty']
 comments: true
 ---
 

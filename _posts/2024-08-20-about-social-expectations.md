@@ -10,7 +10,7 @@ quote_author: Joanna Glogaza
 image: sun-set-on-lake.jpg
 image_alt: Zachód słońca nad jeziorem
 image_title: Rozmyślania na temat społecznych oczekiwań
-tags: [życie, szczęście, wymagania, komunikacja]
+tags: ['lifestyle', 'relacje', 'rozwój osobisty']
 comments: true
 ---
 
