@@ -116,21 +116,6 @@
       time {
         font-style: italic;
       }
-
-      .result-categories {
-        display: flex;
-        gap: 0.25rem;
-
-        .badge {
-          // Red background for search results
-          background-color: $hover-color;
-          color: $white-text-color;
-          border-radius: 10rem;
-          font-size: 12px;
-          font-weight: 700;
-          padding: 0.25rem 0.5rem;
-        }
-      }
     }
 
     .result-description {
