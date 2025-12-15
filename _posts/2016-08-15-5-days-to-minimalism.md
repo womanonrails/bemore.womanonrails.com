@@ -9,7 +9,7 @@ quote_author: Antoine de Saint-Exupéry – Twierdza
 image: 5-days-to-minimalism.jpg
 image_alt: Jeden egzotyczny kwiat na białym tle jako symbol minimalizmu
 image_title: Minimalizm jest piękny tak jak kwiat
-tags: [minimalizm]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

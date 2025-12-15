@@ -10,7 +10,7 @@ quote_author: Allison Bornstein
 image: my-wardrobe.jpg
 image_alt: Ubrania na półce w szafie
 image_title: Cyfrowa szafa na wyciągnięcie ręki.
-tags: [życie, minimalizm, porządki, ubrania]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

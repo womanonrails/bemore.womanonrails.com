@@ -9,7 +9,7 @@ quote_author: Lucy Maud Montgomery (z książki Dolina Tęczy)
 image: self-image-2017.jpg
 image_alt: Odłamki lustra, w których widać fragmenty mojej twarzy - mój autoportret
 image_title: Każdy z nas ma wiele twarzy. Każda z nich składa się na nasz autoportret.
-tags: [szczęście, autoportret]
+tags: ['emocje', 'rozwój osobisty']
 comments: true
 ---
 

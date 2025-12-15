@@ -10,7 +10,7 @@ quote_author: Carlos Ruiz Zafón, „Cień wiatru”
 image: book-and-coffee.jpg
 image_alt: Książka i kawa to wszystko czego mi potrzeba
 image_title: Drugi kwartał 2025 roku to trzy dobre książki, które chciało się czytać przy pysznej kawie.
-tags: [życie, szczęście, depresja, książki]
+tags: ['depresja', 'książki', 'lifestyle', 'wellbeing']
 comments: true
 ---
 

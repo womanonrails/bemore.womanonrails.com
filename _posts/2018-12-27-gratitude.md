@@ -9,7 +9,7 @@ quote_author: Oprah Winfrey
 image: gratitude-for-end-of-year.jpg
 image_alt: Rozmazane, nieostre światła w mieście
 image_title: Każde małe światełko to odrobina wdzięczności
-tags: [szczęście, wdzięczność]
+tags: ['emocje', 'rozwój osobisty', 'wellbeing']
 comments: true
 ---
 

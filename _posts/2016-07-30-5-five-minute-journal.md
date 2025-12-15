@@ -9,7 +9,7 @@ quote_author: (nieznany)
 image: five-minute-journal.jpg
 image_alt: Jasno różowe tulipany leżące na drewnianym blacie
 image_title: Pięć minut do szczęścia każdego dnia
-tags: [szczęście]
+tags: ['emocje', 'rozwój osobisty', 'wellbeing']
 comments: true
 ---
 

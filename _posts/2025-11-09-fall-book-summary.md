@@ -10,7 +10,7 @@ quote_author: Carlos Ruiz Zafón, „Cień wiatru"
 image: book-and-fall.jpeg
 image_alt: Lektury w sam raz na długie jesienne wieczory
 image_title: Kocyk, herbatka, coż więcej potrzeba przy jesiennej lekturze
-tags: [życie, cele, praca, książki]
+tags: ['książki', 'lifestyle', 'praca', 'rozwój osobisty']
 comments: true
 ---
 

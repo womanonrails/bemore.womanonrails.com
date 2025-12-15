@@ -9,7 +9,7 @@ quote_author: Dan Brown - Zaginiony symbol
 image: outlook-on-life.jpg
 image_alt: Okno, przez które widać błękitne niebo i delikatne białe chmurki
 image_title: Nowa perspektywa to okno na świat
-tags: [marzenia, życie, cele]
+tags: ['lifestyle', 'rozwój osobisty']
 comments: true
 ---
 

@@ -10,7 +10,7 @@ quote_author: Nieznany
 image: world-champion.jpg
 image_alt: Oświetlone drzewo na scenie teatru
 image_title: Postanowienie nie noworoczne - mistrzyni świata w komforcie i spokoju
-tags: [życie, slow life, szczęście]
+tags: ['emocje', 'lifestyle', 'slow life']
 comments: true
 ---
 

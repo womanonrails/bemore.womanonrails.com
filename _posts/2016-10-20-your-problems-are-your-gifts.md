@@ -9,7 +9,7 @@ quote_author: Tony Robbins
 image: problems.jpg
 image_alt: Balkony w jednym z bloków w Sofii
 image_title: Każdy z nas ma problemy. Każdy z nich jest inny, ale zawsze możemy się czegoś nauczyć dzięki problemom.
-tags: [przepracowanie, problemy]
+tags: ['emocje', 'praca', 'rozwój osobisty', 'wellbeing']
 comments: true
 ---
 

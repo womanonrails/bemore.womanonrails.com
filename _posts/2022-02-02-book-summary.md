@@ -9,7 +9,7 @@ quote_author: Carlos Ruiz Zafón, „Cień wiatru”
 image: book-on-the-floor.jpg
 image_alt: Książka przy dobrej herbatce
 image_title: Minął rok 2021. Czas przy herbatce podsumować książkowe przygody.
-tags: [życie, slow life, szczęście, książki]
+tags: ['książki', 'lifestyle', 'slow life']
 comments: true
 ---
 

@@ -10,7 +10,7 @@ quote_author: Carlos Ruiz Zafón, „Cień wiatru”
 image: summer-reading.jpeg
 image_alt: Przyjemna lektura w promnieniach letniego słońca
 image_title: Lato to czas odpoczynku i relaksu przy spokojnej lekturze
-tags: [życie, szczęście, slow life, książki]
+tags: ['książki', 'lifestyle', 'slow life']
 comments: true
 ---
 

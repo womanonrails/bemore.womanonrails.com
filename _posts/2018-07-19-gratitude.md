@@ -9,7 +9,7 @@ quote_author: Corrine Zupko
 image: gratitude.jpg
 image_alt: Gałązki pełne różowych kwiatów.
 image_title: Nasze życie powinno być pełne wdzięczności, jak gałęzie są pełne kwiatów.
-tags: [szczęście, radość]
+tags: ['emocje', 'wellbeing']
 comments: true
 ---
 

@@ -9,7 +9,7 @@ quote_author: Courtney Carver
 image: capsule-wardrobe.jpg
 image_alt: Zachód słońca nad miastem.
 image_title: Niech w naszej szafie panuje taka harmonia, jak przy zachodzie słońca.
-tags: [minimalizm, porządki]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 

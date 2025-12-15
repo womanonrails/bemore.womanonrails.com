@@ -10,7 +10,7 @@ quote_author: Joanna Glogaza
 image: housework.jpg
 image_alt: Kaczki pływające po jeziorze
 image_title: Proste sposoby na ogarnięcie przestrzeni bez stresu
-tags: [życie, porządki, depresja, zdrowie, organizacja]
+tags: ['depresja', 'lifestyle', 'porządki', 'wellbeing']
 comments: true
 ---
 

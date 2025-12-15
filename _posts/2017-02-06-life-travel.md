@@ -9,7 +9,7 @@ quote_author: Alighieri Dante
 image: travel-to-your-goal.jpg
 image_alt: Droga nieopodal rzeki prowadząca pomiędzy drzewami
 image_title: Droga do celu jest równie ważna co sam cel
-tags: [plany, marzenia, wytrwałość, cele]
+tags: ['rozwój osobisty', 'lifestyle']
 comments: true
 ---
 

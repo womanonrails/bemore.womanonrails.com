@@ -10,7 +10,7 @@ quote_author: Allison Bornstein
 image: 3-word-method.jpg
 image_alt: Trzy kobiece stylizacje
 image_title: "Styl w trzech słowach: prosta metoda na lepsze ubieranie się"
-tags: [życie, minimalizm, porządki, ubrania]
+tags: ['lifestyle', 'minimalizm', 'porządki']
 comments: true
 ---
 
