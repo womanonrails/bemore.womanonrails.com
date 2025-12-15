@@ -66,12 +66,13 @@ body {
   a {
     text-decoration: none;
     border-bottom: 1px dotted $border-color;
-    letter-spacing: $letter-spacing;
+    letter-spacing: 0.05em; // Reduced from 0.25em for better readability in lists
     font-family: $raleway-fonts;
     color: $text-color;
-    text-transform: uppercase;
-    font-size: 15px;
+    text-transform: none; // Removed uppercase for better readability
+    font-size: 16px; // Slightly larger for better readability
     font-weight: 600; // Increased weight for better readability
+    line-height: 1.6; // Better line spacing for readability
 
     -moz-transition: color 0.2s ease, border-color 0.2s ease;
     -ms-transition: color 0.2s ease, border-color 0.2s ease;
@@ -92,6 +93,7 @@ body {
   .post-date {
     color: $light-text-color;
     font-size: 11px;
+    font-weight: 300; // Light weight for subtle appearance
     padding-left: 15px;
   }
 }
