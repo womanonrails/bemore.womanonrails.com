@@ -7,9 +7,13 @@
   const searchStats = document.getElementById('search-stats');
   const searchLoading = document.getElementById('search-loading');
   const searchClear = document.getElementById('search-clear');
+  const categoryButtons = document.getElementById('category-buttons');
 
   let fuse = null;
-  let searchData = [];
+  let allPosts = [];
+  let allTags = [];
+  let currentCategory = 'all';
+  let currentQuery = '';
 
   // Fuse.js configuration
   const fuseOptions = {
@@ -35,14 +39,17 @@
     fetch('/search.json')
       .then(response => response.json())
       .then(data => {
-        searchData = data;
-        fuse = new Fuse(searchData, fuseOptions);
+        allPosts = data.posts;
+        allTags = data.allTags;
+
+        fuse = new Fuse(allPosts, fuseOptions);
         searchLoading.style.display = 'none';
 
-        // Trigger search if there's already text in input
-        if (searchInput.value.trim()) {
-          performSearch(searchInput.value.trim());
-        }
+        // Initialize category buttons
+        initializeCategoryButtons();
+
+        // Display all posts initially
+        displayPosts(allPosts);
       })
       .catch(error => {
         console.error('Error loading search data:', error);
@@ -51,28 +58,101 @@
       });
   }
 
+  // Initialize category filter buttons
+  function initializeCategoryButtons() {
+    if (!categoryButtons || !allTags || allTags.length === 0) return;
+
+    // Update "Wszystkie" badge with total post count
+    const allCountBadge = document.getElementById('all-count');
+    if (allCountBadge && allPosts) {
+      allCountBadge.textContent = allPosts.length;
+    }
+
+    // Add category buttons dynamically wrapped in <li> for list-inline styling
+    allTags.forEach(tag => {
+      const li = document.createElement('li');
+
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'btn btn-default btn-category';
+      button.dataset.category = tag.name;
+      button.setAttribute('aria-pressed', 'false');
+      button.innerHTML = `${escapeHtml(tag.name)} <span class="badge">${tag.count}</span>`;
+
+      button.addEventListener('click', () => handleCategoryClick(tag.name, button));
+
+      li.appendChild(button);
+      categoryButtons.appendChild(li);
+    });
+  }
+
+  // Handle category button click
+  function handleCategoryClick(category, clickedButton) {
+    currentCategory = category;
+
+    // Update button states
+    const allButtons = categoryButtons.querySelectorAll('.btn-category');
+    allButtons.forEach(btn => {
+      btn.classList.remove('active');
+      btn.setAttribute('aria-pressed', 'false');
+    });
+    clickedButton.classList.add('active');
+    clickedButton.setAttribute('aria-pressed', 'true');
+
+    // Update display
+    updateDisplay();
+  }
+
+  // Update display based on current filters
+  function updateDisplay() {
+    if (currentQuery && currentQuery.length >= 2) {
+      // Search mode
+      performSearch(currentQuery);
+    } else {
+      // Browse mode - filter by category
+      const filteredPosts = filterPostsByCategory(allPosts, currentCategory);
+      displayPosts(filteredPosts);
+    }
+  }
+
+  // Filter posts by category
+  function filterPostsByCategory(posts, category) {
+    if (category === 'all') {
+      return posts;
+    }
+    return posts.filter(post => post.tags && post.tags.includes(category));
+  }
+
   // Perform search
   function performSearch(query) {
     if (!fuse || query.length < 2) {
-      searchResults.innerHTML = '';
-      searchStats.innerHTML = '';
+      displayPosts(filterPostsByCategory(allPosts, currentCategory));
       return;
     }
 
-    const results = fuse.search(query);
-    displayResults(results, query);
+    // Get posts filtered by category first
+    let postsToSearch = filterPostsByCategory(allPosts, currentCategory);
+
+    // Search within filtered posts
+    const fuseForCategory = new Fuse(postsToSearch, fuseOptions);
+    const results = fuseForCategory.search(query);
+
+    displaySearchResults(results, query);
   }
 
   // Display search results
-  function displayResults(results, query) {
+  function displaySearchResults(results, query) {
+    const categoryText = currentCategory === 'all'
+      ? ''
+      : ` w kategorii "<strong>${escapeHtml(currentCategory)}</strong>"`;
+
     // Update stats
     if (results.length > 0) {
-      searchStats.innerHTML = `Znaleziono <strong>${results.length}</strong> ${getPolishPlural(results.length, 'wynik', 'wyniki', 'wyników')} dla "<strong>${escapeHtml(query)}</strong>"`;
+      searchStats.innerHTML = `Znaleziono <strong>${results.length}</strong> ${getPolishPlural(results.length, 'wynik', 'wyniki', 'wyników')} dla "<strong>${escapeHtml(query)}</strong>"${categoryText}`;
     } else {
-      searchStats.innerHTML = `Nie znaleziono wyników dla "<strong>${escapeHtml(query)}</strong>"`;
+      searchStats.innerHTML = `Nie znaleziono wyników dla "<strong>${escapeHtml(query)}</strong>"${categoryText}`;
     }
 
-    // Display results
     if (results.length === 0) {
       searchResults.innerHTML = `
         <div class="no-results">
@@ -81,24 +161,43 @@
             <li>Użyć innych słów kluczowych</li>
             <li>Sprawdzić pisownię</li>
             <li>Użyć bardziej ogólnych terminów</li>
+            ${currentCategory !== 'all' ? '<li>Zmienić wybraną kategorię lub wybrać "Wszystkie"</li>' : ''}
           </ul>
         </div>
       `;
       return;
     }
 
-    // Build results HTML
-    const resultsHtml = results.map(result => {
-      const item = result.item;
-      const date = new Date(item.date);
-      const formattedDate = date.toLocaleDateString('pl-PL', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      });
+    // Display results
+    const posts = results.map(result => result.item);
+    displayPosts(posts);
+  }
 
-      // Get highlighted text
-      let description = item.description || item.quote || item.content || '';
+  // Display posts (for both search and browse mode)
+  function displayPosts(posts) {
+    if (!posts || posts.length === 0) {
+      if (currentCategory !== 'all') {
+        searchStats.innerHTML = `Brak wpisów w kategorii "<strong>${escapeHtml(currentCategory)}</strong>"`;
+      } else {
+        searchStats.innerHTML = 'Brak wpisów do wyświetlenia';
+      }
+      searchResults.innerHTML = '';
+      return;
+    }
+
+    // Update stats for browse mode
+    if (!currentQuery || currentQuery.length < 2) {
+      const categoryText = currentCategory === 'all'
+        ? 'wszystkich kategorii'
+        : `kategorii "<strong>${escapeHtml(currentCategory)}</strong>"`;
+      searchStats.innerHTML = `Wyświetlam <strong>${posts.length}</strong> ${getPolishPlural(posts.length, 'wpis', 'wpisy', 'wpisów')} z ${categoryText}`;
+    }
+
+    // Build results HTML
+    const resultsHtml = posts.map(post => {
+      const dateFormatted = post.dateFormatted || formatDate(post.date);
+
+      let description = post.description || post.quote || post.content || '';
       if (description.length > 200) {
         description = description.substring(0, 200) + '...';
       }
@@ -106,13 +205,13 @@
       return `
         <article class="search-result">
           <h3 class="result-title">
-            <a href="${item.url}">${escapeHtml(item.title)}</a>
+            <a href="${post.url}">${escapeHtml(post.title)}</a>
           </h3>
           <div class="result-meta">
-            <time datetime="${item.date}">${formattedDate}</time>
-            ${item.categories && item.categories.length > 0 ?
-              `<span class="result-categories">${item.categories.map(cat =>
-                `<span class="badge">${escapeHtml(cat)}</span>`
+            <time datetime="${post.date}">${dateFormatted}</time>
+            ${post.tags && post.tags.length > 0 ?
+              `<span class="result-tags">${post.tags.map(tag =>
+                `<span class="badge">${escapeHtml(tag)}</span>`
               ).join(' ')}</span>` : ''}
           </div>
           ${description ? `<p class="result-description">${escapeHtml(description)}</p>` : ''}
@@ -121,6 +220,16 @@
     }).join('');
 
     searchResults.innerHTML = resultsHtml;
+  }
+
+  // Format date
+  function formatDate(dateString) {
+    const date = new Date(dateString);
+    const months = [
+      'stycznia', 'lutego', 'marca', 'kwietnia', 'maja', 'czerwca',
+      'lipca', 'sierpnia', 'września', 'października', 'listopada', 'grudnia'
+    ];
+    return `${date.getDate()} ${months[date.getMonth()]} ${date.getFullYear()}`;
   }
 
   // Polish plural helper
@@ -155,20 +264,16 @@
   // Event listeners
   if (searchInput) {
     const debouncedSearch = debounce((e) => {
-      const query = e.target.value.trim();
+      currentQuery = e.target.value.trim();
 
       // Show/hide clear button
-      if (query) {
+      if (currentQuery) {
         searchClear.style.display = 'block';
       } else {
         searchClear.style.display = 'none';
-        searchResults.innerHTML = '';
-        searchStats.innerHTML = '';
       }
 
-      if (query.length >= 2) {
-        performSearch(query);
-      }
+      updateDisplay();
     }, 300);
 
     searchInput.addEventListener('input', debouncedSearch);
@@ -181,11 +286,19 @@
   if (searchClear) {
     searchClear.addEventListener('click', () => {
       searchInput.value = '';
-      searchResults.innerHTML = '';
-      searchStats.innerHTML = '';
+      currentQuery = '';
       searchClear.style.display = 'none';
       searchInput.focus();
+      updateDisplay();
     });
+  }
+
+  // "All" button handler
+  if (categoryButtons) {
+    const allButton = categoryButtons.querySelector('[data-category="all"]');
+    if (allButton) {
+      allButton.addEventListener('click', () => handleCategoryClick('all', allButton));
+    }
   }
 
   // Initialize - wait for DOM to be ready
