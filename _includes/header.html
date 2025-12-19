@@ -10,7 +10,7 @@
       <div class="collapse navbar-collapse" id="be-more-navbar-collapse">
         <ul class="navbar-nav ms-auto">
           {% for my_page in site.pages %}
-            {% if my_page.title %}
+            {% if my_page.show_in_menu %}
               <li class="nav-item"><a class="nav-link" href="{{ my_page.url | prepend: site.baseurl }}" title="{{ my_page.title }}">{{ my_page.headline }}</a></li>
             {% endif %}
           {% endfor %}

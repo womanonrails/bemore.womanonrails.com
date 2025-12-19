@@ -3,6 +3,7 @@ layout: page
 headline: O mnie
 title: Parę słów o tym kim jestem i co robię
 permalink: /about/
+show_in_menu: true
 ---
 
 <div class='post-image no-margin'>

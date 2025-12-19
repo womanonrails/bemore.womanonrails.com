@@ -4,6 +4,7 @@ title: Wyszukiwarka i kategorie
 headline: <i class="bi bi-search"></i> Szukaj
 permalink: /search/
 search: true
+show_in_menu: true
 ---
 
 <div class="search-container">
